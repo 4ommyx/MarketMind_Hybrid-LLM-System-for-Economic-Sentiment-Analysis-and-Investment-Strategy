@@ -1,0 +1,931 @@
+Page,Date,Source,Title,Link,Content,Sector,Confidence,Sector_Dict,Sector_Count,AI_Sector,Combined_Sector,Score_Qwen2.5-14B-Instruct,Score_Meta-Llama-3.1-8B-Instruct,Score_gemma-3-4b-it,Short_Ans
+1,2026-01-03 09:56:10,Investing.com,BofA unveils its top 10 U.S. ideas for Q1 2026,https://www.investing.com/news/stock-market-news/bofa-unveils-its-top-10-us-ideas-for-q1-2026-4427940,"Investing.com -- Bank of America has released its new list of high-conviction U.S. stock ideas for the first quarter of 2026, featuring nine Buy-rated names and one Underperform.
+
+The quarterly lineup highlights companies that the bank believes have “significant market and business-related catalysts in the quarter ahead,” according to BofA strategist Anthony Cassamassino.
+
+The Buy recommendations span nine industries and include Amazon , Boeing , Cigna , Constellation Energy , Dollar General , Equinix , Merck , Spotify , and Vertex Pharmaceuticals .
+
+The lone Underperform is homebuilder Lennar . BofA said the list is designed as a short-term set of opportunities and will be updated only at the start of each quarter unless ratings change.
+
+While artificial intelligence remains a key theme, the bank emphasised that “the drivers for the broader list are more diverse.” BofA noted that it sees legislative developments as a potential catalyst for Cigna , while for Merck, the bank highlighted its “attractive valuation.”
+
+Dollar General , meanwhile, could benefit from “higher-than-expected tax refunds in F1Q26.”
+
+Amazon is the firm’s top large-cap internet stock, “given exposure to AI vs AWS,” and the bank’s “expectation for AWS revenue growth to accelerate into 2026.”
+
+“For Boeing , we expect 1Q will focus on commercial production rates,” added BofA. “Production remaining stable is a key to investor confidence and the name building momentum for the year.”
+
+For the wider market, BofA’s U.S. equity strategist Savita Subramanian warned that “there is no way to sugar coat it – the S&P 500 is expensive.”
+
+Still, she pointed to Health Care, IT and Real Estate as sectors that “screen attractive near-term.”",Financials,0.0447727947881044,"{'Financials': 0.04477, 'Healthcare': 0.02544, 'Energy': 0.02501}",3,,"Financials, Healthcare, Energy",0.6,0.65,0.3,"Bank of America has unveiled its top 10 U.S. stock picks for Q1 2026, comprising nine ""Buy"" recommendations across various sectors and one ""Underperform"" rating for Lennar, with the selections driven by diverse factors including market catalysts and legislative developments."
+1,2026-01-03 09:55:45,Investing.com,Canaccord’s says 2026 is likely to be ’a bountiful year for Tesla’,https://www.investing.com/news/stock-market-news/canaccords-says-2026-is-likely-to-be-a-bountiful-year-for-tesla-4428184,"Investing.com -- Canaccord Genuity analyst George Gianarikas said 2026 is shaping up to be a pivotal year for Tesla, driven by a wave of new products and a reset in the U.S. electric vehicle market that he believes ultimately favours the company.
+
+Gianarikas said Tesla is set to benefit from the expected scale-up of its CyberCab and Optimus Gen 3 programs, alongside a potential acceleration in Semitruck production.
+
+In the United States the expiry of federal EV subsidies has weighed on near-term demand but is forcing the market into a healthier and more durable phase. The recent weakness reflects a pause typical of major technology transitions rather than a structural reversal in EV adoption.
+
+Gianarikas said EV demand, previously boosted by generous tax credits, is resetting into a smaller but more fundamentals-driven market. Pricing and incentives are normalising, weaker models are being phased out, and competition is increasingly favouring manufacturers with dedicated EV platforms, software and cost discipline.
+
+Gianarikas said Tesla stands apart in the U.S. as the only automaker with a fully scaled and integrated EV franchise, with Rivian emerging as the only credible long-term mass-market challenger. He added that the current shakeout is clarifying which automakers treated EVs as core businesses rather than compliance efforts, a shift he sees as positive for Tesla’s market share.
+
+Gianarikas pointed to rising EV adoption in emerging markets such as Thailand, Vietnam and Brazil. While these regions are not yet meaningful contributors to Tesla’s results, he said they represent early-stage opportunities for longer-term growth, even as competition from Chinese automakers intensifies.
+
+Canaccord applies a 46x multiple to its 2028 non-GAAP earnings estimate of $11.98 a share to arrive at a price target of $551. Gianarikas said the premium valuation reflects Tesla’s long-duration growth opportunities in robotics, autonomy and energy storage. Though the implied execution leaves little room for error.
+
+""2026 is shaping up to be a bountiful year for Tesla, with the anticipated scale-up of CyberCab and Optimus (Gen 3) production, alongside a possible acceleration in Semi output and continued expansion in energy storage driven by the launch of Megapack 3. New products galore,""  said George Gianarikas",Consumer Cyclical,0.0491611558218945,"{'Consumer Cyclical': 0.04916, 'Energy': 0.02483}",2,,"Consumer Cyclical, Energy",0.85,0.85,0.85,Canaccord Genuity analyst George Gianarikas predicts 2026 will be a pivotal year for Tesla due to new product launches and a reset in the U.S. electric vehicle market that he expects to favor the company.
+1,2026-01-03 09:05:02,Investing.com,Is Reddit the new homepage for the Open Web?,https://www.investing.com/news/stock-market-news/is-reddit-the-new-homepage-for-the-open-web-4425436,"Investing.com -- Reddit is increasingly positioned as a key beneficiary of the shift from traditional search toward AI-generated answers, according to a recent analysis by brokerage Needham.
+
+As search queries are replaced by AI answers, economic value is moving away from links and toward the sources cited by large language models (LLMs).
+
+In that context, Needham analyst Laura Martin says Reddit is emerging as “the new homepage for the Open Internet,” given its outsized presence in AI citations and growing role in consumer discovery.
+
+The core change that Martin highlights is the move from link-based search results to AI answers that summarize information directly.
+
+As AI answers – responses generated directly by LLMs such as ChatGPT and Google’s AI Overviews – replace links, overall referral traffic declines, but the value shifts to the sources cited within those responses.
+
+The analyst points to multiple studies suggesting Reddit accounts for a disproportionate share of those citations, consistently representing between 20% and 40% of sources referenced by AI-generated answers.
+
+“As AI-Answers replace links, economic benefits shift to the citations that AI-Answers give, and 20%-40% of citations are to Reddit,” Martin said.
+
+This citation dominance is supported by several third-party studies cited in the note. A July 2025 Pew study found a meaningful gap in click behavior between searches with and without AI summaries, reinforcing the idea that reduced clicks increase the importance of citation ownership.
+
+A large-scale Semrush study published in the fourth quarter of 2025 analyzed 230,000 prompts across major AI platforms and found that Reddit appeared in roughly 40% of AI-generated responses.
+
+By comparison, Wikipedia and YouTube trailed with citation rates of 26.3% and 23.5%, respectively.
+
+Ironically, Semrush said that AI models favor Reddit because it offers “real, human responses, from users with experience in related fields.”
+
+Martin also points out similar findings from Axios and Similarweb. Axios data showed Reddit was a top-cited platform across all major language models, while Similarweb observed rising “zero-click” behavior as Google’s AI overviews expanded, alongside heavy citation of Reddit.
+
+From a business perspective, Needham sees two key economic benefits for Reddit from this shift.
+
+The first is data licensing, with the firm estimating more than $120 million per year in license fees from large language model providers, a figure it believes could double once ongoing litigation with other AI firms is resolved.
+
+The second is advertising upside, as increased visibility through AI citations drives impressions and engagement.
+
+“Bottom line, RDDT is disproportionately cited inside AI-Answers (up to 40% of citations) and citations are the new value driver for consumer discovery and navigation of the Open Internet,” Martin concluded.",Technology,0.0324551182245956,{'Technology': 0.03246},1,,Technology,0.85,0.83,0.85,"Needham analyst Laura Martin suggests that Reddit is becoming ""the new homepage for the Open Internet"" as AI-driven responses increasingly cite the platform, shifting economic value from traditional search links to content sources like Reddit."
+1,2026-01-03 03:24:29,Reuters,"Trump blocks chips deal, cites security, China-related concerns",https://www.investing.com/news/stock-market-news/trump-blocks-chips-deal-cites-security-chinarelated-concerns-4428474,"WASHINGTON, Jan 2 (Reuters) - President Donald Trump on Friday blocked U.S. photonics firm HieFo Corp’s $3 million acquisition of assets in New Jersey-based aerospace and defense specialist Emcore, citing national security and China-related concerns.
+
+In an order released by the White House, Trump said HieFo was ""controlled by a citizen of the People’s Republic of China"" and that its 2024 acquisition of Emcore’s businesses led the president to believe that it may ""take action that threatens to impair the national security of the United States.""
+
+The order did not name the individual or detail Trump’s concerns.
+
+""The Transaction is hereby prohibited,"" Trump said, ordering HieFo to ""divest all interests and rights in the Emcore Assets, wherever located,"" within 180 days.
+
+The Committee on Foreign Investment in the United States identified a national security risk in its investigation of the deal, the Treasury Department said after Trump’s order. The statement did not specify the national security risk.
+
+HieFo and Emcore could not immediately be reached for comment and had not posted any reaction on their websites as of late on Friday.
+
+Emcore, publicly traded at the time of the deal and later taken private, has said HieFo bought its chips business and indium-phosphide wafer-fabrication operations for $2.92 million.
+
+HieFo said at the time that it was co-founded by Genzao Zhang, a former Emcore vice president of engineering, and Harry Moore, whose LinkedIn profile describes him as a former senior sales director at Emcore.",Industrials,0.0248364531854549,{'Industrials': 0.02484},1,,Industrials,-0.75,-0.7,-0.8,"President Trump has blocked a $3 million chip deal between U.S. firm HieFo Corp and Emcore over national security and China-related concerns, ordering HieFo to divest its interests within 180 days."
+1,2026-01-03 01:12:24,Reuters,"Top hedge funds led by D.E.Shaw, Bridgewater and Balyasny deliver big gains in 2025",https://www.investing.com/news/stock-market-news/de-shaws-flagship-funds-trump-market-volatility-to-beat-sp-500-in-2025-source-says-4428076,"(Corrects Point72’s return figures in second bullet and paragraph 6)
+
+By Nell Mackenzie, Ateev Bhandari and Anirban Sen
+
+NEW YORK, Jan 2 (Reuters) - Large multi-manager funds, including D.E. Shaw, Balyasny Asset Management, Bridgewater Associates and Point72 Asset Management, generated mostly double-digit gains in 2025, reflecting an upbeat year for the hedge fund industry that was buoyed by an AI-powered stock market rally.
+
+D.E. Shaw’s two flagship funds produced double-digit returns, a source familiar with the matter told Reuters on Friday, reflecting similar gains seen across top multi-strategy peers during a year of record volatility.
+
+The firm’s Oculus Fund generated a net return of around 28.2% for the year and has made a net annualized return of 14.4% since its founding in 2004, the source said.
+
+D.E. Shaw’s Composite Fund, which is its largest multi-strategy fund, generated a net return of around 18.5%, with an annualized net return of 12.9% since its inception in 2001, the person said.
+
+Founded in 1988, D.E. Shaw managed more than $85 billion as of December 1 across hedge funds, private markets, multi-asset-class and active equity investment strategies.
+
+Balyasny, which was co-founded in 2001 by Dmitry Balyasny, delivered gains of 16.7% during the year, while Steve Cohen’s Point72 produced a return of 17.5%, according to two people familiar with the matter.
+
+Top multi-manager funds broadly enjoyed healthy gains last year, helped mainly by a strong performance from the U.S. stock market that has been lifted by euphoria around artificial intelligence-focused stocks.
+
+Fund managers also have benefited from U.S. President Donald Trump’s trade wars that triggered volatility in bond and currency markets. Large global macro hedge funds typically invest in stocks, bonds, currencies and commodities.
+
+""Overall, it has been a strong year for hedge funds across strategies, with decent alpha generation and recognition from allocators,"" said Vanessa Bogaardt, global head of capital introduction, prime financing at Bank of America.
+
+""Hedge fund assets are at all-time highs, supported by net inflows into the industry. Allocator sentiment toward hedge funds remains positive, and we see plenty of opportunities to explore in 2026,” she added.
+
+The benchmark S&P 500 index rose about 16% last year, as it went from record highs in mid-February, to near bear-market lows in early April, and then to fresh record highs in December.
+
+The volatility - fueled largely by Trump’s whiplash trade, fiscal and geopolitical policies - helped trading desks across Wall Street reap profits, as active portfolio shuffling created price arbitrage.
+
+Bridgewater Associates, founded by billionaire Ray Dalio and currently led by CEO Nir Bar Dea, posted the highest profits in its 50-year history. Its flagship Pure Alpha fund surged 34% in 2025 to lead the pack of top multi-strategy funds that operate so-called pod shops, which refer to teams of traders who oversee multiple asset classes including stocks, commodities, and bonds.
+
+Billionaire investor Cliff Asness’ AQR Capital Management made annual gains of 19.6% in its multi-strategy Apex Strategy and 18.6% in its alternative trend-following Helix Strategy, another source told Reuters on Friday.
+
+Some top firms including Millennium and Citadel, however, lagged their largest peers, after being weighed down during the first half of the year by Trump administration trade policies.
+
+Millennium gained 10.5% during the year, while Citadel’s flagship Wellington fund posted a 10.2% return, according to two sources familiar with the matter. Citadel’s long-term annualized net return since its inception in 1990 stood at about 19%, one of the sources said.",Financials,0.1463227890257639,"{'Financials': 0.14632, 'Utilities': 0.03504}",2,,"Financials, Utilities",0.85,0.85,0.85,"Top hedge funds such as D.E. Shaw, Bridgewater, and Balyasny experienced significant double-digit gains in 2025, driven by an AI-fueled stock market rally and overall positive performance across the industry."
+1,2026-01-02 23:25:27,Reuters,"Short interest in Trump Media climbs after recent rally, S3 Partners says",https://www.investing.com/news/stock-market-news/short-interest-in-trump-media-climbs-after-recent-rally-s3-partners-says-4428426,"Jan 2 (Reuters) - Short interest in U.S. President Donald Trump’s social media company has jumped following a recent merger announcement, suggesting some traders expect the stock to give back more of its recent gains, according to financial data firm S3 Partners.
+
+Shares of money-losing Trump Media & Technology Group are up over 30% since December 18, when it announced a $6 billion merger with Google-backed TAE Technologies. The stock had jumped as much as 63% in the two days following the announcement.
+
+Since the merger announcement, short interest in Trump Media shares has climbed 31% to nearly 16 million shares, around the highest level since October, S3 Partners said in a report on Friday. With the stock adding 4% on Friday to $13.77, that short interest represents bets worth about $218 million that the company’s shares will decline.
+
+Trump Media’s all-stock deal is an ambitious bet on the power boom spurred by artificial intelligence data centers and adds to the Trump family’s growing roster of diverse ventures, from cryptocurrency to real estate holdings and mobile services.
+
+Trump has 115 million shares in Trump Media, roughly 40% of the company. His stake in the merged company would be roughly 20%.
+
+Shares of Trump Media have lost almost 60% over the past 12 months.",Communication Services,0.1598503025215759,"{'Communication Services': 0.15985, 'Technology': 0.02527}",2,,"Communication Services, Technology",-0.6,-0.45,-0.6,"Short interest in Trump Media & Technology Group has surged 31% to nearly 16 million shares following its recent $6 billion merger announcement with TAE Technologies, indicating skepticism among traders despite the stock's 30% increase since December 18."
+1,2026-01-02 22:13:29,Investing.com,Trump blocks HieFo’s acquisition of Emcore semiconductor assets,https://www.investing.com/news/stock-market-news/trump-blocks-hiefos-acquisition-of-emcore-semiconductor-assets-93CH-4428357,"Investing.com -- President Donald Trump issued an executive order Friday blocking HieFo Corp. from acquiring semiconductor-related assets from Emcore Corp., citing national security concerns.
+
+The order prohibits the Delaware-based HieFo, which is controlled by a Chinese citizen, from completing its acquisition of ""assets comprising the digital chips and related wafer design, fabrication, and processing businesses"" of New Jersey-based Emcore.
+
+The companies had announced in 2024 that they completed a deal worth $2.92 million for Emcore’s chips business and indium phosphide wafer fabrication operations. The transaction was finalized on April 30, 2024.
+
+Under the executive order, HieFo must divest all interests and rights in the Emcore assets within 180 calendar days, unless extended by the Committee on Foreign Investment in the United States (CFIUS).
+
+The order states there is ""credible evidence"" that HieFo ""might take action that threatens to impair the national security of the United States"" through the acquisition.
+
+Until the divestment is completed, HieFo is prohibited from granting access to the Emcore assets or non-public technical information to any persons who are not HieFo personnel without CFIUS approval.
+
+The order also requires HieFo to certify compliance weekly and permits U.S. government employees designated by CFIUS to access HieFo’s U.S. premises for verification purposes.
+
+Any potential buyers of the divested assets must be notified to CFIUS, which has 30 days to object to the proposed sale.",Other,0.014219506773314,{'Other': 0.0},0,Other,Other,-0.75,-0.7,-0.8,"President Trump has blocked HieFo's acquisition of Emcore's semiconductor assets due to national security concerns, ordering the company to divest within 180 days."
+1,2026-01-02 21:48:35,Investing.com,NextEra Energy stock rises after confirming financial outlook,https://www.investing.com/news/stock-market-news/nextera-energy-stock-rises-after-confirming-financial-outlook-93CH-4428315,"Investing.com -- NextEra Energy (NYSE:NEE) stock gained 1.1% in after-hours trading Friday after the utility company reaffirmed its financial projections ahead of upcoming investor meetings.
+
+The company confirmed its financial outlook remains unchanged, with adjusted earnings per share expected between $3.62 and $3.70 for 2025 and between $3.92 and $4.02 for 2026. NextEra continues to target compound annual growth in adjusted earnings per share of at least 8% through 2032, using the 2025 range as a baseline.
+
+The Florida-based utility provider also maintained its longer-term adjusted earnings per share growth target of at least 8% through 2035, also measured from the 2025 baseline.
+
+Regarding dividends, NextEra projects approximately 10% annual growth through 2026 from a 2024 base. For 2027 and 2028, the company expects approximately 6% annual dividend growth from a 2026 base, though it noted all dividend declarations remain subject to board approval.
+
+The company’s projections assume normal weather and operating conditions, positive U.S. and Florida economic conditions, supportive commodity markets, and continued policy support for renewable energy development. Additional assumptions include consistent rate case outcomes and no adverse litigation decisions or changes to governmental policies.",Utilities,0.1345637080073487,"{'Utilities': 0.13456, 'Energy': 0.06656, 'Financials': 0.03681}",3,,"Utilities, Energy, Financials",0.8,0.8,0.75,"NextEra Energy's stock increased by 1.1% in after-hours trading as the company reaffirmed its strong financial outlook, including earnings and dividend growth targets, through 2035."
+1,2026-01-02 21:43:09,Investing.com,BigBear.ai stock falls after executives disclose share dispositions,https://www.investing.com/news/stock-market-news/bigbearai-stock-falls-after-executives-disclose-share-dispositions-93CH-4428301,"Investing.com -- BigBear.ai Holdings Inc (NYSE:BBAI) stock dropped 2.7% in after-hours trading Friday following regulatory filings showing multiple company executives disposed of shares.
+
+The filings revealed that three senior executives of the artificial intelligence company had shares withheld to satisfy tax withholding obligations related to the vesting of restricted stock units. Chief Executive Officer Kevin McAleenan had 4,663 shares disposed of at a price of $5.50, leaving him with 1,213,985 shares directly owned. Chief Financial Officer Sean Ricker had 6,625 shares disposed at the same price, retaining 480,864 shares, while General Counsel and Secretary Carolyn Blankenship had 5,945 shares withheld, leaving her with 650,257 shares.
+
+The transactions were dated December 31, 2025, according to the Form 4 filings submitted to the Securities and Exchange Commission.
+
+These share dispositions come shortly after the company announced plans to significantly improve its balance sheet by reducing its outstanding convertible debt. BigBear.ai recently issued a notice to holders of its 6.00% Convertible Senior Secured Notes due 2029, calling for redemption of all outstanding notes.
+
+The company expects to eliminate approximately $125 million of debt through a combination of voluntary conversions by noteholders and redemption of any remaining notes, reducing its total note-related debt from approximately $142 million to about $17 million.",Other,0.0197195558291638,{'Other': 0.0},0,Technology,Technology,-0.6,-0.4,-0.6,"BigBear.ai's stock fell 2.7% in after-hours trading as several executives, including the CEO, CFO, and General Counsel, disposed of shares to cover tax obligations from vested restricted stock units."
+1,2026-01-02 21:31:23,Investing.com,U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.66%,https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-066-4428273,"Investing.com – U.S. stocks were mixed after the close on Friday, as gains in the Oil & Gas , Industrials and Basic Materials sectors led shares higher while losses in the Consumer Goods , Telecoms and Consumer Services sectors led shares lower.
+
+At the close in NYSE, the Dow Jones Industrial Average rose 0.66%, while the S&P 500 index added 0.19%, and the NASDAQ Composite index fell 0.03%.
+
+The best performers of the session on the Dow Jones Industrial Average were Boeing Co (NYSE: BA ), which rose 4.91% or 10.65 points to trade at 227.77 at the close. Meanwhile, Caterpillar Inc (NYSE: CAT ) added 4.46% or 25.54 points to end at 598.41 and Goldman Sachs Group Inc (NYSE: GS ) was up 4.02% or 35.34 points to 914.34 in late trade.
+
+The worst performers of the session were Salesforce Inc (NYSE: CRM ), which fell 4.26% or 11.28 points to trade at 253.63 at the close. Microsoft Corporation (NASDAQ: MSFT ) declined 2.21% or 10.69 points to end at 472.93 and Amazon.com Inc (NASDAQ: AMZN ) was down 1.89% or 4.36 points to 226.46.
+
+The top performers on the S&P 500 were Micron Technology Inc (NASDAQ: MU ) which rose 10.50% to 315.38, Western Digital Corporation (NASDAQ: WDC ) which was up 8.95% to settle at 187.68 and Lam Research Corp (NASDAQ: LRCX ) which gained 8.11% to close at 185.06.
+
+The worst performers were Gartner Inc (NYSE: IT ) which was down 6.06% to 236.98 in late trade, Palantir Technologies Inc (NASDAQ: PLTR ) which lost 5.58% to settle at 167.84 and Intuit Inc (NASDAQ: INTU ) which was down 4.97% to 629.47 at the close.
+
+The top performers on the NASDAQ Composite were Lavoro Ltd (NASDAQ: LVRO ) which rose 144.44% to 1.10, Sky Quarry Inc (NASDAQ: SKYQ ) which was up 92.62% to settle at 0.43 and Brand Engagement Network Inc (NASDAQ: BNAI ) which gained 62.50% to close at 3.77.
+
+The worst performers were OUTLOOK THERAPEUTICS INC (NASDAQ: OTLK ) which was down 58.22% to 0.66 in late trade, Protagenic Therapeutics (NASDAQ: PTIX ) which lost 42.30% to settle at 0.75 and Kazia Therapeutics Ltd ADR (NASDAQ: KZIA ) which was down 27.43% to 5.00 at the close.
+
+Rising stocks outnumbered declining ones on the New York Stock Exchange by 1807 to 947 and 73 ended unchanged; on the Nasdaq Stock Exchange, 1981 rose and 1414 declined, while 127 ended unchanged.
+
+Shares in Micron Technology Inc (NASDAQ: MU ) rose to all time highs; up 10.50% or 29.97 to 315.38. Shares in Western Digital Corporation (NASDAQ: WDC ) rose to all time highs; rising 8.95% or 15.41 to 187.68. Shares in Lam Research Corp (NASDAQ: LRCX ) rose to all time highs; rising 8.11% or 13.88 to 185.06. Shares in Goldman Sachs Group Inc (NYSE: GS ) rose to all time highs; rising 4.02% or 35.34 to 914.34. Shares in OUTLOOK THERAPEUTICS INC (NASDAQ: OTLK ) fell to all time lows; falling 58.22% or 0.92 to 0.66. Shares in Protagenic Therapeutics (NASDAQ: PTIX ) fell to all time lows; losing 42.30% or 0.55 to 0.75.
+
+The CBOE Volatility Index , which measures the implied volatility of S&P 500 options, was down 2.94% to 14.51.
+
+Gold Futures for February delivery was down 0.05% or 2.35 to $4,338.75 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 0.16% or 0.09 to hit $57.33 a barrel, while the March Brent oil contract fell 0.10% or 0.06 to trade at $60.79 a barrel.
+
+EUR/USD was unchanged 0.23% to 1.17, while USD/JPY rose 0.09% to 156.82.
+
+The US Dollar Index Futures was up 0.12% at 98.16.",Basic Materials,0.0254150425630338,{'Basic Materials': 0.02542},1,,Basic Materials,0.05,0.43,0.2,"U.S. stocks closed mixed on Friday, with the Dow Jones Industrial Average rising 0.66%, the S&P 500 gaining 0.19%, and the NASDAQ declining 0.03%, reflecting sector-specific performance variations."
+1,2026-01-02 21:30:44,Investing.com,Mexico stocks lower at close of trade; S&P/BMV IPC down 0.36%,https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-036-4428266,"Investing.com – Mexico stocks were lower after the close on Friday, as losses in the Industrials , Consumer Goods & Services and Consumer Staples sectors led shares lower.
+
+At the close in Mexico, the S&P/BMV IPC lost 0.36%.
+
+The best performers of the session on the S&P/BMV IPC were Controladora Vuela Compania de Aviacion SAB de CV (BMV: VOLARA ), which rose 2.63% or 0.42 points to trade at 16.40 at the close. Meanwhile, Grupo Financiero Banorte (BMV: GFNORTEO ) added 2.46% or 4.10 points to end at 171.04 and Megacable Holdings, S.A.B. De C.V. (BMV: MEGACPO ) was up 1.97% or 1.02 points to 52.74 in late trade.
+
+The worst performers of the session were Industrias Penoles Sab De CV (BMV: PEOLES ), which fell 4.09% or 38.74 points to trade at 908.00 at the close. Sigma Foods SAB de CV (BMV: SIGMAFA ) declined 2.54% or 0.40 points to end at 15.34 and Gentera SAB de CV (BMV: GENTERA ) was down 1.71% or 0.79 points to 45.29.
+
+Falling stocks outnumbered advancing ones on the Mexico Stock Exchange by 112 to 100 and 14 ended unchanged.
+
+Gold Futures for February delivery was down 0.07% or 2.90 to $4,338.20 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 0.16% or 0.09 to hit $57.33 a barrel, while the March Brent oil contract fell 0.10% or 0.06 to trade at $60.79 a barrel.
+
+USD/MXN was down 0.42% to 17.91, while EUR/MXN fell 0.62% to 20.99.
+
+The US Dollar Index Futures was up 0.12% at 98.16.",Consumer Cyclical,0.0231064852823885,{'Consumer Cyclical': 0.02311},1,,Consumer Cyclical,-0.36,-0.36,-0.36,"Mexico's stock market closed lower on Friday, with the S&P/BMV IPC index declining by 0.36%, driven by losses in key sectors such as Industrials, Consumer Goods & Services, and Consumer Staples."
+1,2026-01-02 21:30:04,Investing.com,Canada stocks higher at close of trade; S&P/TSX Composite up 0.54%,https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-054-4428263,"Investing.com – Canada stocks were higher after the close on Friday, as gains in the Clean Technology , Healthcare and Energy sectors led shares higher.
+
+At the close in Toronto, the S&P/TSX Composite gained 0.54%.
+
+The best performers of the session on the S&P/TSX Composite were Energy Fuels Inc. (TSX: EFR ), which rose 15.39% or 3.06 points to trade at 22.94 at the close. Meanwhile, Denison Mines Corp (TSX: DML ) added 13.74% or 0.50 points to end at 4.14 and NexGen Energy Ltd. (TSX: NXE ) was up 11.48% or 1.45 points to 14.08 in late trade.
+
+The worst performers of the session were G Mining Ventures Corp (TSX: GMIN ), which fell 8.00% or 3.32 points to trade at 38.17 at the close. Wesdome Gold Mines Ltd. (TSX: WDO ) declined 4.49% or 1.02 points to end at 21.72 and Thomson Reuters Corp (TSX: TRI ) was down 4.12% or 7.47 points to 173.66.
+
+Rising stocks outnumbered declining ones on the Toronto Stock Exchange by 576 to 371 and 64 ended unchanged.
+
+Shares in NexGen Energy Ltd. (TSX: NXE ) rose to all time highs; rising 11.48% or 1.45 to 14.08. Shares in Thomson Reuters Corp (TSX: TRI ) fell to 52-week lows; losing 4.12% or 7.47 to 173.66.
+
+The S&P/TSX 60 VIX , which measures the implied volatility of S&P/TSX Composite options, was up 0.57% to 12.37.
+
+Gold Futures for February delivery was down 0.06% or 2.75 to $4,338.35 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 0.17% or 0.10 to hit $57.32 a barrel, while the March Brent oil contract fell 0.12% or 0.07 to trade at $60.78 a barrel.
+
+CAD/USD was unchanged 0.03% to 0.73, while CAD/EUR unchanged 0.16% to 0.62.
+
+The US Dollar Index Futures was up 0.12% at 98.16.",Energy,0.0480272918375445,"{'Energy': 0.04803, 'Utilities': 0.042}",2,,"Energy, Utilities",0.65,0.64,0.65,"Canada's stock market closed higher on Friday, with the S&P/TSX Composite gaining 0.54%, driven by strong performances in the Clean Technology, Healthcare, and Energy sectors despite some declines in specific stocks."
+1,2026-01-02 21:25:09,Investing.com,Colombia stocks higher at close of trade; COLCAP up 0.05%,https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-005-4428251,"Investing.com – Colombia stocks were higher after the close on Friday, as gains in the Industrials , Services and Agriculture sectors led shares higher.
+
+At the close in Colombia, the COLCAP rose 0.05%.
+
+The best performers of the session on the COLCAP were Ecopetrol SA (BVC: ECO ), which rose 1.36% or 25.00 points to trade at 1,870.00 at the close. Meanwhile, Etb (BVC: ETB ) unchanged 0.00% or 0.00 points to end at 46.50 and Cementos Argos Pf (BVC: CCB_p ) was unchanged 0.00% or 0.00 points to 13,340.00 in late trade.
+
+The worst performers of the session were Grupo de Inversiones Suramericana SA (BVC: SIS ), which fell 5.26% or 3,000.00 points to trade at 54,000.00 at the close. Corporacion Financiera Colombiana SA (BVC: CFV ) declined 4.20% or 800.00 points to end at 18,260.00 and Organizacion Terpel SA (BVC: TPL ) was down 3.61% or 700.00 points to 18,700.00.
+
+Rising stocks outnumbered declining ones on the Colombia Stock Exchange by 1 to 0.
+
+Shares in Etb (BVC: ETB ) unchanged to all time lows; unchanged 0.00% or 0.00 to 46.50.
+
+US coffee C for March delivery was up 1.82% or 6.35 to $355.10 . Elsewhere in commodities trading, US cocoa for delivery in March fell 2.87% or 174.00 to hit $5,891.00 , while the February Gold Futures contract fell 0.04% or 1.70 to trade at $4,339.40 a troy ounce.
+
+USD/COP was up 0.19% to 3,777.12, while BRL/COP rose 1.03% to 695.35.
+
+The US Dollar Index Futures was up 0.11% at 98.16.",Other,0.0113642234249871,{'Other': 0.0},0,Other,Other,0.2,0.55,0.2,"Colombia's stock market closed higher on Friday, with the COLCAP index rising 0.05%, driven by gains in the Industrials, Services, and Agriculture sectors despite some notable declines in individual stocks."
+1,2026-01-02 21:21:29,Investing.com,Stock market today: S&P 500 ekes out gain to kick off 2026 as chip stocks shine,https://www.investing.com/news/stock-market-news/us-futures-rise-as-markets-kick-off-new-year-on-upbeat-note-4427553,"Investing.com--The S&P 500 eked out a gain Friday on the first day of the trading year, as chip stocks jumped, but broader gains were kept in check by a stumble in major tech stocks including Microsoft and Meta amid light trading volumes.
+
+At 4:00 p.m. ET (21:00 GMT), the S&P 500 was up about 0.2%  while Nasdaq 100 closed roughly flat, but Dow Jones Industrial Average added 0.7%, or 319 points.
+
+NVIDIA Corporation (NASDAQ: NVDA ) and Micron Technology Inc (NASDAQ: MU ) led the move higher in the chip stocks, rising more than 1% and 10%, respectively, but gains in the broader tech sector were kept in check by slump in Microsoft Corporation (NASDAQ: MSFT ) and Meta Platforms Inc (NASDAQ: META ).
+
+Tesla Inc (NASDAQ: TSLA ) was also under pressure after EV maker reported that sales fell 16% in Q4 from a year earlier, weighed down by weaker demand in Europe and China. Adding to Tesla’s woes, Chinese EV maker BYD overtook Tesla to become the world’s largest seller of electric vehicles in 2025 after reporting 28% jump in sales of its battery-powered cars for 2025.
+
+""The rebound this morning is being led by large-cap technology,"" Katie Stockton, founder of Fairlead Strategies, wrote in the morning note.
+
+However, Stockton warns that ""a short-term overbought downturn remains active to suggest there is heightened risk in the days ahead.""
+
+Trading conditions are expected to remain thin, with many investors yet to return from the holiday break and fuller participation unlikely until early next week. Still, strategists at Deutsche Bank cautioned against reading too much into the early move.
+
+“We shouldn’t extrapolate too far, as the first trading day has been an incredibly poor guide in recent times to how the rest of the year plays out,” strategists including Jim Reid wrote.
+
+Still, the forces that dominated last year, particularly enthusiasm for artificial intelligence-linked stocks that helped drive all three major U.S. indexes to record highs in 2025, are likely to feature again this year.
+
+""Long-term relative trends still favor technology for 2026, although the intermediate-term relative trend for tech has weakened for Q1,"" Stockton added.
+
+Strong momentum faded into year-end, however, with the S&P 500, Nasdaq and Dow all posting declines over the final four sessions of 2025. The pullback ran counter to expectations for a so-called Santa Claus rally, which typically sees stocks rise over the last five trading days of December and the first two sessions of January.
+
+Barclays warned that equity markets could turn choppy as they enter 2026 at elevated levels that are “over reliant on AI success.”
+
+The bank’s strategists nonetheless expect further gains over the year, citing resilient corporate earnings and a favorable balance between economic growth and monetary policy.
+
+Looking ahead, investors see U.S. monetary policy as a key driver. Expectations of a more dovish Federal Reserve, reinforced by recent economic data and speculation around future leadership, have led markets to price in additional rate cuts, setting the tone for global assets in 2026.",Financials,0.0811610766006463,"{'Financials': 0.08116, 'Technology': 0.04998}",2,,"Financials, Technology",0.05,0.1,0.2,"The S&P 500 gained slightly on the first trading day of 2026, driven by strong performances in chip stocks like NVIDIA and Micron, despite declines in major tech companies such as Microsoft and Meta, and further pressured by Tesla's sales downturn and loss of top EV sales"
+1,2026-01-02 21:16:07,Investing.com,TSX starts positive in 2026 following record-breaking year,https://www.investing.com/news/stock-market-news/tsx-set-for-positive-2026-open-following-recordbreaking-year-4427819,"Investing.com -- Canadian equities start positive at 2026, as a resurgence in the precious metals complex provides a tailwind for the resource-heavy Toronto market. Following a brief year-end retreat, investors are returning to the ""safe-haven"" trade amid a weakening U.S. dollar and escalating geopolitical friction. Index on Friday is up 170 points or 0.54% at 31,883.37. This follows a somber final session of 2025, where the S&P/TSX Composite fell 153.50 points to close at 31,712.76. Despite that late-December softness, the benchmark ended 2025 with a 28.2% annual gain, its strongest performance since 2009, outpacing the S&P 500’s 17% return.
+
+The primary catalyst for Friday’s pre-market bounce is a broad recovery in the materials sector. After a sharp ""flush out"" in the final week of December, gold and silver have resumed their upward trajectory.
+
+XAU/USD : Spot gold jumped 1.4% to $4,370.41/oz, while U.S. Gold Futures rose 0.9% to $4,380.30. Bullion remains supported by expectations of further Federal Reserve rate cuts in 2026 and robust buying from emerging market central banks.
+
+Silver Futures : Climbed 4.46% to $73.75, building on a 2025 rally that saw the metal surge nearly 150% due to data center and solar energy demand.
+
+Platinum Futures : Skyrocketed 5.07% to $2,147.85, as supply constraints continue to pinch the market.
+
+Analysts suggest that while profit-taking characterized the end of December, the fundamental drivers, geopolitical uncertainty and a dovish Fed tilt, remain firmly in place for the new year.
+
+S&P 500 was up about 0.2% at 3:02 p.m. ET (20:02 GMT) in New York, while Nasdaq 100 fell 0.1%. Dow Jones Industrial Average added 0.7%, or 323 points. Historically, the S&P 500 has often started the year with modest losses before rallying to double-digit gains, but the 2026 opening indicates a ""risk-on"" appetite as traders bet on a soft landing for the global economy.
+
+In a stark contrast to the metals rally, the energy sector is starting 2026 on the defensive.
+
+Brent Oil Futures : Slipped 0.95% to $60.28.
+
+Crude Oil WTI Futures : Fell 1% to $56.84.
+
+Bearish sentiment is being driven by a projected market surplus and a deepening rift within OPEC+. Tensions between Saudi Arabia and the UAE over operations in Yemen have cast a shadow over the upcoming OPEC+ virtual meeting on January 4. While geopolitical risks, including fresh drone strikes on Russian energy infrastructure and U.S. sanctions on Venezuelan tankers, provide intermittent support, they have so far failed to offset the reality of rising global inventories.
+
+As the TSX opens its first session of 2026, the focus will remain on the ""tug-of-war"" between a resurgent mining sector and a struggling energy complex. Market participants are also keeping a close eye on the U.S. dollar’s trajectory, as its continued weakness remains the secret sauce for the Canadian benchmark’s commodity-led outperformance.",Basic Materials,0.078916592283493,"{'Basic Materials': 0.07892, 'Energy': 0.06391, 'Utilities': 0.03956}",3,,"Basic Materials, Energy, Utilities",0.75,0.73,0.85,"The Toronto Stock Exchange begins 2026 positively, rising 0.54%, driven by a rebound in the precious metals sector and supported by a weakening U.S. dollar and increasing geopolitical tensions."
+1,2026-01-02 21:15:34,Investing.com,GH Research stock soars after IND update announcement,https://www.investing.com/news/stock-market-news/gh-research-stock-soars-after-ind-update-announcement-93CH-4428209,"Investing.com -- GH Research PLC (NASDAQ:GHRS) stock surged 28% in after-hours trading on Friday following the company’s announcement that it will provide an update on its Investigational New Drug Application (IND) for GH001 and its global Phase 3 program in treatment-resistant depression.
+
+The clinical-stage biopharmaceutical company said it will deliver the update on Monday, January 5, 2026, at 7:00 a.m. EST. The announcement concerns GH001, the company’s lead product candidate formulated for mebufotenin administration via a proprietary inhalation approach.
+
+GH Research noted that its Phase 2b GH001-TRD-201 trial met its primary endpoint with a Montgomery–Åsberg Depression Rating Scale (MADRS) reduction from baseline of -15.5 points compared with placebo on Day 8. The company is developing GH001 as a novel and proprietary mebufotenin therapy for patients with treatment-resistant depression.
+
+The significant after-hours stock movement suggests investors are anticipating positive developments regarding the regulatory pathway for GH001, which could potentially advance the company’s goal of developing what it describes as a ""practice-changing treatment in depression.""",Healthcare,0.0700795368870581,{'Healthcare': 0.07008},1,,Healthcare,0.85,0.85,0.85,"GH Research PLC's stock soared 28% in after-hours trading following the announcement of an upcoming IND update for its lead product GH001, which showed promising results in treating treatment-resistant depression."
+1,2026-01-02 21:12:30,Reuters,Luxury retailer Saks Global CEO Marc Metrick steps down as bankruptcy looms,https://www.investing.com/news/stock-market-news/luxury-retailer-saks-global-ceo-marc-metrick-steps-down-4427927,"Jan 2 (Reuters) - Saks Global said on Friday CEO Marc Metrick has stepped down and named Executive Chairman Richard Baker as his successor, amid reports that the luxury retailer is preparing for bankruptcy.
+
+The change at the top comes days after the Wall Street Journal reported that the Neiman Marcus parent company is preparing for bankruptcy after missing an interest payment exceeding $100 million on debt from its Neiman merger.
+
+Saks Global was created after Saks Fifth Avenue parent Hudson’s Bay Company acquired rival Neiman Marcus, bringing together the two upmarket department store chains to control costs amid uneven demand and better compete with rivals such as Nordstrom and Macy’s Bloomingdale’s.
+
+Metrick spent nearly 30 years with Saks, heading the luxury portfolio including Saks Fifth Avenue and Neiman Marcus. He led Saks Global since its formation in July 2024 and worked on shaping the firm’s digital transformation and strategy.
+
+""The Saks and Neiman Marcus merger has been a disaster,"" said David Swartz, department store analyst at Morningstar, adding that luxury shoppers are shifting to Bloomingdale’s, Nordstrom and brand-owned stores.
+
+""The whole luxury multibrand space has been struggling for years.""
+
+Products at Saks Fifth Avenue range from about $60 for cotton rib tank dresses to nearly $20,000 for designer dresses, with handbags typically priced between $100 and $38,280, according to information on its website.
+
+Incoming CEO Baker is the owner of real estate firm NRDC and has a long track record in retail and property. He previously chaired Retail Opportunity Investments Corp and served as the president of Saks Fifth Avenue Foundation, founded in 2017.
+
+The company said Metrick stepped down to pursue ""new opportunities"" and has not provided any further details.
+
+The company was looking to sell a minority stake in luxury retailer Bergdorf Goodman to help cut debt, Reuters reported in September.",Consumer Cyclical,0.0689366044870154,{'Consumer Cyclical': 0.06894},1,,Consumer Cyclical,-0.85,-0.7,-0.85,"Saks Global's CEO Marc Metrick resigned as the company, facing potential bankruptcy due to a missed debt payment, prepares for financial restructuring under new leadership."
+1,2026-01-02 20:30:04,Investing.com,Brazil stocks lower at close of trade; Bovespa down 0.42%,https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-042-4428135,"Investing.com – Brazil stocks were lower after the close on Friday, as losses in the Real Estate , Industrials and Consumption sectors led shares lower.
+
+At the close in Sao Paulo, the Bovespa fell 0.42%.
+
+The best performers of the session on the Bovespa were Companhia Brasileira De Distribuica (BVMF: PCAR3 ), which rose 4.47% or 0.17 points to trade at 3.97 at the close. Meanwhile, SLC Agricola SA (BVMF: SLCE3 ) added 2.83% or 0.40 points to end at 14.67 and Raia Drogasil SA (BVMF: RADL3 ) was up 1.79% or 0.42 points to 23.87 in late trade.
+
+The worst performers of the session were Minerva SA/Brazil (BVMF: BEEF3 ), which fell 6.60% or 0.38 points to trade at 5.38 at the close. Marfrig Global Foods (BVMF: MBRF3 ) declined 3.95% or 0.79 points to end at 19.19 and Totvs SA (BVMF: TOTS3 ) was down 3.16% or 1.33 points to 40.75.
+
+Falling stocks outnumbered advancing ones on the B3 Stock Exchange by 575 to 365 and 60 ended unchanged.
+
+The CBOE Brazil Etf Volatility , which measures the implied volatility of Bovespa options, was down 0.63% to 26.96.
+
+Gold Futures for February delivery was down 0.07% or 3.15 to $4,337.95 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 0.21% or 0.12 to hit $57.30 a barrel, while the March US coffee C contract rose 1.82% or 6.35 to trade at $355.10 .
+
+USD/BRL was down 0.79% to 5.43, while EUR/BRL fell 1.75% to 6.36.
+
+The US Dollar Index Futures was up 0.12% at 98.17.",Other,0.006889050622969,{'Other': 0.0},0,Other,Other,-0.3,-0.55,-0.45,"Brazil's stock market closed lower on Friday, with the Bovespa index declining by 0.42%, driven by losses in the Real Estate, Industrials, and Consumption sectors despite some individual stocks performing well."
+1,2026-01-02 20:21:02,Investing.com,Daiichi Sankyo to invest $1.9 billion in global cancer drug facilities - Nikkei,https://www.investing.com/news/stock-market-news/daiichi-sankyo-to-invest-19-billion-in-global-cancer-drug-facilities--nikkei-93CH-4428130,"Investing.com -- Japanese pharmaceutical company Daiichi Sankyo plans to invest approximately 300 billion yen ($1.9 billion) to establish production facilities for targeted cancer medicines across four countries, according to Nikkei.
+
+The drugmaker will build manufacturing sites in Japan, the United States, Germany, and China as part of a strategy to diversify its production capabilities for cancer treatments.
+
+This global expansion aims to mitigate geopolitical risks, including potential tariffs that could affect the company’s supply chain and distribution network.
+
+By establishing facilities across multiple regions, Daiichi Sankyo is positioning itself to maintain consistent production and delivery of its cancer medications regardless of trade tensions or regulatory changes between countries.",Industrials,0.0295878446634373,"{'Industrials': 0.02959, 'Healthcare': 0.0253, 'Energy': 0.02128}",3,,"Industrials, Healthcare, Energy",0.75,0.8,0.8,Daiichi Sankyo plans to invest $1.9 billion in building production facilities for cancer drugs in four countries to diversify its production capabilities and mitigate geopolitical risks.
+1,2026-01-02 20:06:30,Reuters,Equinor challenges US order to suspend Empire Wind project,https://www.investing.com/news/stock-market-news/equinor-challenges-us-order-to-suspend-empire-wind-project-4428120,"Jan 2 (Reuters) - Norwegian energy group Equinor said on Friday it had filed a civil suit in the U.S. District Court for the District of Columbia challenging a U.S. Department of the Interior order to suspend its Empire Wind project.
+
+""As part of that case, Empire plans to seek a preliminary injunction and allow construction to continue while the litigation proceeds,"" Equinor added.
+
+Last week, the Trump administration suspended leases for five large offshore wind projects that are under construction off the U.S. East Coast over what it called national security concerns, sending shares of offshore wind companies plunging.
+
+The suspension was the latest blow for offshore wind developers that have faced repeated disruptions to their multi-billion-dollar projects under U.S. President Donald Trump, who has said he finds wind turbines ugly, costly and inefficient.
+
+Denmark’s Orsted said on Friday it was challenging the U.S. government’s suspension of the lease for its Revolution Wind joint venture and would seek a court injunction against the decision to halt its $5 billion offshore wind project.
+
+Equinor said filing for a preliminary injunction is necessary to keep the project on track during this critical execution phase and avoid further commercial and financing impacts if the order remains in effect.
+
+Equinor said Empire Wind is being developed under contract with New York State Energy Research and Development Authority (NYSERDA).
+
+The project is more than 60% complete and represents a major investment in U.S. energy infrastructure, jobs and supply chains, the company said.",Energy,0.1805152679897234,"{'Energy': 0.18052, 'Utilities': 0.03804, 'Industrials': 0.03021}",3,,"Energy, Utilities, Industrials",0.05,0.6,-0.8,"Equinor has challenged a U.S. order to suspend its Empire Wind project by filing a civil lawsuit and seeking a preliminary injunction to continue construction, following the Trump administration's suspension of several offshore wind projects due to national security concerns."
+1,2026-01-02 20:01:04,Reuters,"Exclusive-Elliott partner Jason Genrich has left hedge fund, sources say",https://www.investing.com/news/stock-market-news/exclusiveelliott-partner-jason-genrich-has-left-hedge-fund-sources-say-4428071,"NEW YORK, Jan 2 (Reuters) - Elliott Investment Management on Friday told clients that Jason Genrich, who led many of the firm’s technology investments, has left the hedge fund, according to two people familiar with the matter.
+
+Genrich, 38, was a partner and senior portfolio manager and will remain a consultant at Elliott until the middle of this year, according to the two sources who are prohibited from discussing it publicly.
+
+With a focus on investments across the technology, media and telecommunications industry, Genrich led Elliott’s investments in Hewlett Packard Enterprise in early 2025 and a multi-year campaign at Crown Castle . He was also part of the team that took enterprise software company Citrix Systems private in 2022 along with Vista Equity Partners.
+
+He currently serves on the board at communications infrastructure provider Crown Castle.
+
+Elliott declined to comment. Genrich could not be reached for comment.
+
+Genrich has worked at Elliott since 2014, according to his LinkedIn profile and his future plans could not be immediately determined.
+
+Elliott is one of the world’s busiest activist investors and has launched campaigns this year at Lululemon Athletica , with an eye to bringing a new CEO to the athleisure-wear maker, and soda and snack maker PepsiCo , where it reached a settlement in December that will include cost cuts and other changes.",Financials,0.0610266350904405,"{'Financials': 0.06103, 'Communication Services': 0.0224}",2,,"Financials, Communication Services",0.0,0.0,-0.4,"Jason Genrich, a key partner at Elliott Investment Management known for leading the firm's technology investments, has departed the hedge fund while remaining a consultant until mid-year."
+1,2026-01-02 19:26:28,Investing.com,Equinor files lawsuit against U.S. Interior Department over Empire Wind,https://www.investing.com/news/stock-market-news/equinor-files-lawsuit-against-us-interior-department-over-empire-wind-93CH-4428104,"Investing.com -- Norwegian energy group Equinor filed a civil suit in the U.S. District Court for the District of Columbia on Friday, challenging a U.S. Department of the Interior order to suspend its Empire Wind project.
+
+The company stated that as part of the legal action, Empire plans to seek a preliminary injunction that would allow construction to continue while the litigation proceeds.",Energy,0.0748050356826385,"{'Energy': 0.07481, 'Consumer Cyclical': 0.02841}",2,,"Energy, Consumer Cyclical",-0.6,-0.6,-0.7,"Equinor has filed a lawsuit against the U.S. Interior Department to challenge and seek suspension of an order halting their Empire Wind project, aiming for a preliminary injunction to continue construction."
+1,2026-01-02 19:00:21,Investing.com,ISM manufacturing PMI among key economic data due Monday,https://www.investing.com/news/stock-market-news/ism-manufacturing-pmi-among-key-economic-data-due-monday-93CH-4428094,"As traders approach another pivotal day for financial markets, a series of crucial decisions and economic data releases that could sway market dynamics are expected. Monday, January 5, 2026, brings the highly anticipated ISM Manufacturing PMI, a key indicator of the health of the manufacturing sector in the United States. This report will provide valuable insights into the state of factory activity and could influence market sentiment and Federal Reserve policy considerations.
+
+• 10:00 AM ET - ISM Manufacturing PMI: This comprehensive gauge of factory activity measures purchasing managers’ sentiment across the manufacturing sector. The index is forecast at 48.4, slightly above the previous reading of 48.2, though still below the 50-mark that separates contraction from expansion.
+
+Other Important Economic Events to Watch
+
+• 6:00 AM ET - Construction Spending (Dec): Measures the change in the total amount spent on construction projects, with a forecast of -0.1% compared to the previous 0.2%. This data can provide insights into housing and commercial real estate trends.
+
+• 10:00 AM ET - ISM Manufacturing Employment: This subcomponent of the manufacturing report focuses specifically on hiring trends in the sector. The previous reading was 44.0, indicating contraction in manufacturing employment.
+
+• 10:00 AM ET - ISM Manufacturing Prices: This inflation indicator within the manufacturing sector is forecast at 59.0, up from the previous 58.5, suggesting continued price pressures in the production pipeline.
+
+• 12:00 PM ET - Atlanta Fed GDPNow: This real-time estimate of GDP growth for the current quarter is forecast to remain steady at 3.0%.
+
+• 10:00 AM ET - ISM Manufacturing New Orders Index: This forward-looking component of the manufacturing report indicates future production levels. The previous reading was 47.4.
+
+• 11:30 AM ET - 3-Month Bill Auction: The Treasury will auction short-term government debt, with the previous auction yielding 3.570%.
+
+• 11:30 AM ET - 6-Month Bill Auction: Medium-term government debt auction, with the previous auction yielding 3.500%.
+
+• 2:00 PM ET - Total Vehicle Sales: This measure of annualized new vehicle sales is forecast at 15.70M, slightly above the previous 15.60M, providing insights into consumer spending and confidence.
+
+For further information and the latest updates, please refer to our Economic Calendar, here .",Industrials,0.0754713658236802,"{'Industrials': 0.07547, 'Financials': 0.026, 'Consumer Cyclical': 0.02558}",3,,"Industrials, Financials, Consumer Cyclical",0.05,0.0,-0.6,"On Monday, January 5, 2026, the release of the ISM Manufacturing PMI is expected to provide critical insights into the U.S. manufacturing sector's health, potentially influencing market sentiment and Federal Reserve policies."
+1,2026-01-02 18:56:16,Investing.com,BTIG Reveals its Best Stock Picks for H1 2026,https://www.investing.com/news/stock-market-news/btig-reveals-its-best-stock-picks-for-h1-2026-93CH-4428092,"Investing.com -- As investors look ahead to the first half of 2026, BTIG analysts have released their top stock picks across various sectors.
+
+These selections represent companies with strong technical patterns and significant upside potential according to the firm’s research team.
+
+BTIG’s analysis highlights stocks showing promising chart patterns, key support levels, and potential breakout opportunities. Here’s a closer look at their top recommendations:
+
+1. BrightSpring Health Services, Inc. (BTSG) : Analyst David Larsen assigns a Buy rating with a $50 price target. The stock has demonstrated a strong uptrend since summer, reaching new all-time highs. While some consolidation may occur, BTIG believes further upside is likely as long as it maintains support above its 50-day moving average of $34.43.
+
+2. Compass, Inc. (COMP) : With a Buy rating and $12.50 price target from analyst Jake Fuller, this stock has shown remarkable recovery after declining 90% from 2021 to 2023. Following a multi-year base formation, it broke out in November. BTIG sees good support in the $9-$9.50 range and projects potential upside to $14 if support holds.
+
+Compass , Inc. reported strong third-quarter 2025 results with revenue of $1.85 billion, a 23.6% year-over-year increase, and record adjusted EBITDA of $93.6 million. Additionally, Barclays upgraded the company’s stock to Overweight, citing synergies from its acquisition of HOUS.
+
+3. Edwards Lifesciences Corporation (EW) : Analyst Marie Thibault rates it Buy with a $103 target. After a significant gap down in mid-2024, the stock has steadily recovered, filling the gap in November. Recent consolidation suggests another leg higher into the mid-$90s, with potential to reach $105-$110 if it clears the $95 level.
+
+Edwards Lifesciences recently received FDA approval for its SAPIEN M3 mitral valve replacement system, the first transcatheter therapy of its kind. The company also saw an analyst upgrade to Overweight from JPMorgan.
+
+4. Establishment Lab Holdings, Inc. (ESTA) : Carrying an $86 price target from analyst Sam Eiber, this stock broke out in October/November and is now consolidating below $80. BTIG maintains a constructive outlook as long as support at $62-$64 holds.
+
+Establishment Lab Holdings, Inc. has submitted an application to the FDA to expand the approved use of its Motiva implants to include breast reconstruction. Following the submission, BTIG raised its price target on the company to $86.00.
+
+5. Harrow, Inc. (HROW) : Analyst Thomas Shrader assigns a $63 target. After a strong run followed by a pullback in early 2025, the stock has been recovering. BTIG believes it could challenge its previous high around $59, with support in the low $40s offering potential buying opportunities.
+
+Harrow, Inc. reported a third-quarter 2025 earnings per share of $0.33, beating forecasts, and also completed its acquisition of clinical-stage pharmaceutical company Melt Pharmaceuticals.
+
+6. Klaviyo, Inc. (KVYO) : With a $40 target from analyst Nick Altmann, this stock has been forming a base for the past year with a potential double bottom around $23. Having reclaimed its 200-day moving average, it faces resistance at $35-$37, but could run to $40-$50 if it breaks through.
+
+In recent developments, Klaviyo , Inc. announced that its customers generated $3.8 billion in sales through its platform over the Black Friday weekend, a 27% year-over-year increase, and appointed Chano Fernández as co-CEO.
+
+7. Prologis, Inc. (PLD) : Analyst Thomas Catherwood’s $155 target reflects confidence in the stock’s October breakout. With support at $124-$125, BTIG sees potential for resumed uptrend, especially if it breaks above the $136 resistance level.
+
+Prologis , Inc. priced an offering of C$700 million in notes due 2032. The company also received a price target increase to $155.00 from BTIG, which cited improved fundamentals.
+
+8. Rocket Companies, Inc. (RKT) : Analyst Eric Hagen sets a $25 target for this stock, which has been building a base after a significant 2021-2022 decline. Key resistance sits at $21.50-$22, with room to $25-$27 above that level.
+
+Rocket Companies, Inc. announced third-quarter adjusted revenue of $1.78 billion and adjusted earnings per share of $0.07, both surpassing consensus estimates. Separately, Jefferies initiated coverage on the company with a Buy rating.
+
+9. Spire, Inc. (SR) : With a $99 target from analyst Alex Kania, this stock broke out in September after six months of consolidation. Currently holding above its 200-day moving average ($78.63), BTIG anticipates the uptrend will continue.
+
+Spire , Inc. issued $900 million in notes to finance its acquisition of a Tennessee natural gas business. The company also received an upgrade to Overweight from Morgan Stanley, which cited an outlook for above-average EPS growth.
+
+10. TKO Group Holdings, Inc. (TKO) : Analyst Tyler DiMatteo assigns a $250 target to this stock, which recently found support above its rising 200-day moving average before pushing to new highs. With no natural resistance at all-time highs, BTIG projects potential movement toward $250 as long as the uptrend holds.
+
+TKO Group Holdings, Inc. received price target increases from multiple firms, with BTIG raising its target to $250 and TD Cowen increasing its target to $245.",Healthcare,0.0335562317907398,{'Healthcare': 0.03356},1,,Healthcare,0.85,0.85,0.75,"BTIG analysts have identified several stocks with strong technical patterns and significant upside potential for the first half of 2026, including BrightSpring Health Services and Compass, Inc., both receiving Buy ratings with targeted price increases."
+1,2026-01-02 18:55:10,Reuters,’Top Gun: Maverick’ copyright claim against Paramount rejected by US appeals court,https://www.investing.com/news/stock-market-news/top-gun-maverick-copyright-claim-against-paramount-rejected-by-us-appeals-court-4428091,"Jan 2 (Reuters) - A federal appeals court ruled on Friday that the 2022 Tom Cruise blockbuster ""Top Gun: Maverick"" did not infringe a magazine article that inspired the original 1986 ""Top Gun"" film.
+
+The 9th U.S. Circuit Court of Appeals in Pasadena, California said ""Maverick,"" from Paramount Pictures, was not substantially similar to ""Top Guns,"" a 1983 article by Ehud Yonay about the U.S. Navy’s Top Gun fighter pilot training school in San Diego.
+
+Yonay gave Paramount rights to his article that year for the original ""Top Gun,"" and was credited in the film.
+
+His widow Shosh Yonay and son Yuval Yonay, heirs to his copyright, terminated the license in 2020 and said they deserved some profits from ""Maverick,"" whose $1.5 billion worldwide gross is the 14th highest ever according to Box Office Mojo. ""Maverick"" is also Cruise’s highest-grossing film.
+
+Lawyers for the Yonays did not immediately respond to requests for comment. Paramount, part of Paramount Skydance , and its lawyers did not immediately respond to similar requests.
+
+The Yonays, both from Israel, said ""Maverick"" shared plot, character, dialogue and thematic elements with ""Top Guns,"" with both works depicting ""what it takes to be the best of the best in fighter aviation.""
+
+The three-judge appeals court panel said ""Maverick"" contained many significant plot elements not in ""Top Guns,"" including a romantic subplot and Cruise’s character, Navy Captain Pete ""Maverick"" Mitchell, returning to train younger pilots.
+
+It also said the Yonays described both works at ""such a high level of abstraction"" that the alleged similarities were not protectable.
+
+""Their claim of substantial similarity fails because what is protected is not similar, and what is similar is not protected,"" Circuit Judge Eric Miller wrote.
+
+The panel added that Paramount was not required to credit Ehud Yonay in ""Maverick"" because his 1983 agreement did not cover the film.
+
+Friday’s decision upheld an April 2024 dismissal by U.S. District Judge Percy Anderson in Los Angeles.
+
+Paramount is also defending against a lawsuit in New York by screenwriter Shaun Gray, who said he wrote several scenes that appeared in ""Maverick"" and deserves some of its profits. Jury selection is scheduled for March 9.",Other,0.0068992689596292,{'Other': 0.0},0,Other,Other,0.7,0.7,0.2,"A federal appeals court has rejected a copyright infringement claim against Paramount's ""Top Gun: Maverick,"" determining the film does not substantially resemble the 1983 magazine article that inspired the original ""Top Gun."""
+1,2026-01-02 18:48:29,Reuters,"Tesla loses EV crown to China’s BYD as competition, tax credit expiry hit demand",https://www.investing.com/news/stock-market-news/teslas-quarterly-deliveries-fall-more-than-expected-on-lower-ev-demand-4427809,"Jan 2 (Reuters) - Tesla ceded its crown as the world’s top electric vehicle maker to China’s BYD , after annual sales fell for a second year, hit by rising competition, the expiry of U.S. tax credits and brand backlash.
+
+With global EV sales rising 28% last year, BYD outsold Tesla for the first time on an annual basis, helped by rapid growth in Europe, where the Chinese automaker has been widening its lead over the U.S. rival.
+
+Tesla, whose sales fell about 8.6% in 2025, is facing intense competition, especially in Europe, raising questions about its ability to revive the core auto business as CEO Elon Musk steers the company towards robotaxis and humanoid robots.
+
+Shares of the company fell about 2% in afternoon trading.
+
+""Investors are so focused on the future with Tesla that they are ignoring delivery numbers. It’s about Optimus, Robotaxi and physical AI,"" said Dennis Dick, a trader at Triple D Trading, which owns Tesla shares.
+
+END OF TAX CREDIT IN U.S. PINCHES TESLA
+
+Tesla’s fourth-quarter figures come after third-quarter deliveries were supported by a rush to lock in $7,500 in federal tax credits after President Donald Trump’s administration decided to pull the plug on the incentive in September.
+
+In the U.S., EVs accounted for 6.2% of retail vehicle sales in the quarter, down 3.6 percentage points from a year earlier, while average transaction prices rose nearly $6,000 to $53,300, according to J.D. Power data.
+
+Tesla said it delivered 418,227 vehicles in the October-December quarter, down 15.6% from 495,570 a year earlier. Analysts expected 434,487 vehicles, or a 12.3% drop, according to Visible Alpha.
+
+For the full year, Tesla delivered 1.64 million vehicles, compared with 1.79 million in 2024. Analysts polled by Visible Alpha had expected deliveries of about 1.65 million vehicles.
+
+The decline in deliveries was not a major surprise, given the market had already priced in weaker demand after U.S. EV tax credits ended, said Seth Goldstein, senior equity research analyst at Morningstar.
+
+Meanwhile, Tesla said it deployed 14.2 GWh of energy storage products, a record high. It is set to report fourth-quarter results on January 28.
+
+INTENSIFYING COMPETITION IN NORTH AMERICA AND EUROPE
+
+Growing competition from Chinese and European automakers such as BYD, Volkswagen and BMW has weighed on Tesla’s sales momentum.
+
+Tesla registrations declined across much of Europe in December but jumped in Norway, where record sales contrasted with shrinking market share in rest of the region in 2025.
+
+BYD said sales outside of China climbed to a record 1 million vehicles in 2025, up about 150% from 2024. The company has said it aimed to sell as many as 1.6 million vehicles outside China in 2026, though it has not disclosed an overall sales target.
+
+Tesla in October launched stripped-down ""Standard"" versions of the Model Y and Model 3, priced about $5,000 below the previous base models, as it sought to defend sales volumes after the tax credit loss and appeal to customers in Europe looking for cheaper options.
+
+The move disappointed some investors who had expected a larger price cut or a meaningfully new mass-market product.
+
+Even as vehicle deliveries have weakened, Tesla shares rose about 11.4% in 2025, boosting Musk’s wealth.",Financials,0.0680208020535673,"{'Financials': 0.06802, 'Consumer Cyclical': 0.0581}",2,,"Financials, Consumer Cyclical",-0.75,-0.63,-0.8,"Tesla lost its position as the world's leading electric vehicle manufacturer to China's BYD due to declining sales affected by increased competition, the expiration of U.S. tax incentives, and negative brand perception."
+1,2026-01-02 18:21:33,Investing.com,MicroCloud Hologram stock rises after launching quantum computing tool,https://www.investing.com/news/stock-market-news/microcloud-hologram-stock-rises-after-launching-quantum-computing-tool-93CH-4428075,"Investing.com -- MicroCloud Hologram Inc. (NASDAQ:HOLO) stock rose 2.7% on Friday after the technology service provider announced the launch of its Q-DPC Accelerator, a new tool that leverages quantum computing technology to enhance strategy evaluation efficiency.
+
+The Q-DPC Accelerator utilizes a quantum-enhanced density peak clustering algorithm to identify clustering structures in strategy sets, which the company says significantly reduces the complexity of strategy evaluation processes. The tool features three core functions: strategy set preprocessing, quantum clustering grouping, and intelligent strategy matching.
+
+According to the company, the Q-DPC Accelerator can efficiently process large-scale complex strategy sets through quantum data cleaning, feature extraction, and data conversion. The quantum clustering capability evaluates density and distance relationships between strategies, dividing them into different clusters to reduce computational complexity.
+
+The tool is designed to provide rapid matching when access requests are initiated by comparing request information with pre-generated strategy clusters. This approach reportedly improves both matching speed and accuracy while maintaining system security and compliance.
+
+MicroCloud Hologram positions the Q-DPC Accelerator as having broad application potential across various industries, particularly in helping enterprises build security protection systems. The company expects the tool’s performance to further improve as quantum computing technology continues to develop.",Technology,0.1384334931639769,{'Technology': 0.13843},1,,Technology,0.85,0.85,0.8,"MicroCloud Hologram's stock increased by 2.7% following the announcement of their new quantum computing tool, the Q-DPC Accelerator, which aims to improve strategy evaluation efficiency through advanced clustering algorithms."
+1,2026-01-02 17:30:51,Reuters,New York Mayor Mamdani vows to enact democratic socialist agenda,https://www.investing.com/news/stock-market-news/mamdanis-inauguration-new-york-new-year-new-mayor-4426330,"(Corrects paragraph 2 to add dropped word ""influence"")
+
+NEW YORK, Jan 1 (Reuters) - Democrat Zohran Mamdani became New York City’s mayor on Thursday, vowing during a public swearing-in ceremony on the steps of City Hall to enact an aggressive agenda aimed at making the nation’s largest city more affordable for working people.
+
+Mamdani, a member of his party’s left-wing democratic socialist faction, was elected last November in a prominent victory that could influence this year’s midterm elections that will determine control of the U.S. Congress. Some Democrats have embraced his style while Republicans portray him as a foil on the national political stage.
+
+The 34-year-old campaigned heavily on cost-of-living issues and was sharply critical of Republican President Donald Trump, whose approval rating has fallen over the past year amid economic concerns.
+
+Many of New York’s 8 million residents - some with hope, some with trepidation - expect him to be a disruptive political force. In a speech following his public swearing-in, Mamdani promoted core campaign promises of universal childcare, affordable rents and free bus service.
+
+""We will answer to all New Yorkers, not to any billionaire or oligarch who thinks they can buy our democracy,"" he said. ""I was elected as a democratic socialist and I will govern as a democratic socialist.""
+
+The program for Mamdani’s inauguration included remarks by U.S. Senator Bernie Sanders and U.S. Representative Alexandria Ocasio-Cortez, fellow democratic socialists at the vanguard of the Democratic Party’s liberal wing.
+
+Sanders, whom Mamdani calls his inspiration, defended Mamdani’s agenda.
+
+""Making sure that people can live in affordable housing is not radical,"" Sanders said. ""It is the right and decent thing to do.""
+
+The crowd of several thousand cheered loudly when Sanders called on America’s millionaires and billionaires to pay more in taxes, breaking into a chant of ""tax the rich.""
+
+Even with temperatures well below freezing, the city set up a viewing area along Broadway to allow thousands more to watch a livestream of the ceremony, which included musical performances.
+
+Mae Hardman-Hill, 27, volunteered for Mamdani’s campaign and said it felt like his political momentum was growing.
+
+""I’m a native New Yorker. I’ve watched the city like you just become less and less affordable, less and less livable,"" Hardman-Hill said. ""I’m really excited for ... regular people to get some power back again.""
+
+Prior to the public ceremony, Mamdani was privately sworn in as New York City’s mayor in the first minutes of the New Year on Thursday at the historic City Hall subway station, which was decommissioned decades ago and is accessible only a few times a year through guided tours.
+
+Reflecting his Muslim faith, he used a Quran, Islam’s holiest book, for his swearing-in, a first for a New York City mayor.
+
+Hours after Mamdani took office, the lead group tasked with electing Republicans to the U.S. House of Representatives sought to portray him as a ""radical socialist.""
+
+""Every time Mamdani opens his mouth or swipes his pen, he tattoos the Democrat Party’s failures onto every House Democrat facing voters in 2026,"" spokesperson Mike Marinella said in a statement that signaled the sizable role Mamdani is likely to play on the national campaign stage.
+
+Mamdani, a former state lawmaker, promised a freeze on rents and free buses and childcare, building a campaign around affordability issues that some have seen as a path forward for the Democratic Party around the country ahead of November midterm elections.
+
+Dean Fuleihan, the incoming deputy mayor, told the Financial Times that Mamdani will move ahead with plans to increase taxes on millionaires to pay for his campaign promises and balance New York’s budget. He added that he doesn’t expect rich people to leave the city as a result of potentially higher taxes.
+
+New York Governor Kathy Hochul has said she opposes raising personal income taxes but is considering raising corporate taxes to pay for a potential budget shortfall amid federal cuts.
+
+In one early reversal, Mamdani said on Wednesday that he would no longer seek to end mayoral control of New York City’s public school system, the largest in the U.S., naming veteran educator Kamar Samuels as chancellor.
+
+Mamdani inspired a record-breaking turnout of more than 2 million voters and took 50% of the vote in November, nearly 10 points ahead of Andrew Cuomo running as an independent and well ahead of Republican Curtis Sliwa.
+
+The Uganda-born Mamdani has been a sharp critic of Trump on issues such as immigration and said his differences with the president were numerous after a warm White House meeting.
+
+Mamdani raised $2.6 million for the transition and celebrations from nearly 30,000 contributors, more than other mayors on record this century, both by the total and single donations, according to official campaign data that presents disclosures of inaugural expenses beginning with Michael Bloomberg’s first term in 2001.
+
+As mayor, Mamdani will move from his one-bedroom Astoria apartment, protected from sharp price hikes by the city rent-stabilization program, to Gracie Mansion, the official residence of New York City mayors on Manhattan’s upscale Upper East Side.
+
+Bankers and others in New York, the nation’s financial capital, had expressed concern about Mamdani, but since his election many have explored how to work with him.",Other,0.0091916392882112,{'Other': 0.0},0,Other,Other,0.05,0.73,0.3,"Newly-elected New York City Mayor Zohran Mamdani, a democratic socialist, aims to make the city more affordable for working people, potentially influencing the upcoming midterm elections and dividing national opinions along partisan lines."
+1,2026-01-02 17:27:02,Investing.com,Tesla misses Q4 delivery estimates,https://www.investing.com/news/stock-market-news/tesla-misses-q4-delivery-estimates-shares-rise-4427807,"Investing.com -- After initially opening higher, Tesla shares have now pulled lower, down around 1.6%, after the electric vehicle giant missed consensus forecasts for fourth-quarter deliveries.
+
+According to figures released on Friday, the company delivered 418,227 vehicles versus the company-compiled consensus estimate of 422,850 and the Bloomberg consensus estimate of 440,907.
+
+Tesla produced 434,358 vehicles during the quarter, down 5.5% year-on-year and below the 470,780 Bloomberg consensus estimate.
+
+Deliveries were down 16% from the same period a year earlier.
+
+Model 3 and Model Y deliveries totaled 406,585. This represents a 14% year-over-year decrease, missing the Bloomberg consensus estimate of 421,796 units.
+
+Production of those models totaled 422,652, down 3.2% from last year.
+
+Earlier on Friday, data from automotive industry organizations showed that Tesla registrations in Portugal, France, Sweden, and Spain had declined but they rose strongly in Norway.
+
+Following the report, Wedbush analyst Dan Ives said in a note that the Q4 deliveries were ""better than whisper numbers"" and ""all eyes are on AI into 2026.""
+
+""This will be viewed as better than feared deliveries and a step in the right direction for the Tesla story heading into 2026,"" wrote Ives. However, he also noted that ""Europe remains a continuous headwind.""
+
+Taking a positive view on the company’s outlook, the analyst believes ""Tesla will own ~70% of the global autonomous market over the next decade as no other company in the world can match the scale and scope of Tesla coupled with its broadening AI footprint.""
+
+Meanwhile, Truist analyst William Stein noted the deliveries came in below expectations, adding that Tesla also ""offered no updates on the more important topics: AI projects & new Vehicles.""
+
+""We assert investors should be more focused on AI projects, especially FSD,"" said Stein. ""We view AI developments as far more important than auto deliveries for TSLA’s long-term cash generation and stock performance. Our near-term EPS estimates decline slightly, and PT goes to $439 (from $444). Hold.""",Consumer Cyclical,0.0348796729877744,{'Consumer Cyclical': 0.03488},1,,Consumer Cyclical,-0.6,-0.4,-0.7,"Tesla's stock dropped as the company fell short of expected fourth-quarter vehicle delivery and production targets, with deliveries totaling 418,227 compared to estimates of around 440,907."
+1,2026-01-02 17:24:31,Reuters,"European shares start 2026 at record highs; tech, defence provide lift",https://www.investing.com/news/stock-market-news/european-shares-start-2026-by-hitting-a-record-high-4427391,"By Ragini Mathur and Utkarsh Hathi
+
+Jan 2 (Reuters) - European stocks kicked off 2026 by scaling record highs on Friday, extending 2025’s standout rally as tech and defence shares powered the gains.
+
+The pan-European STOXX 600 rose 0.7% to 596.14, just four points away from the closely watched 600-mark, as traders returned from New Year celebrations. The index also notched its third straight weekly advance.
+
+The benchmark wrapped up 2025 with its strongest performance since 2021, buoyed by falling interest rates, German fiscal stimulus and a rotation away from high-flying U.S. tech stocks with stretched valuations.
+
+It was a year that tested investors, too. Markets absorbed tariff shocks and rebounded from April’s lows after U.S. President Donald Trump announced blanket tariffs on trading partners, rattling global risk appetite.
+
+On Friday, London’s blue-chip FTSE 100 index hit the symbolic 10,000-point marker for the first time.
+
+""From a logical point of view, a milestone of 10,000 is not important, but psychologically it is, as what we are seeing is that investors are keen to put money into the market without the fear of record highs,"" said Nick Saunders, CEO of trading platform Webull UK.
+
+Bourses across the region ended the week higher. The German index ticked up 0.2%, France’s CAC 40 added 0.6%, while the FTSE 100 rose 0.2%.
+
+Within the STOXX 600, ASML jumped 7%, driving gains in peers and the technology sub-sector. Defence stocks gained the most, advancing 3.3%.
+
+Basic resources shares were up 0.6%, while the energy index rose 1.4%, tracking strength in precious metals and crude prices on the day. [GOL/][MET/L]
+
+""Europe has mostly held on to its gains. There’s not a lot of individual news, but in general, it tells us the momentum and positivity towards European shares continue and that’s a good sign. It’s certainly much better to start the year,"" said Steve Sosnick, Chief Market Analyst, Interactive Brokers.
+
+Among the laggards, media stocks dipped the most, falling 1.2%, continuing last year’s underperformance.
+
+Real estate shares dropped 0.7%.
+
+In other moves, shares of Orsted rose 4.6% after the Danish offshore wind developer said it was challenging the U.S. government’s suspension of its $5 billion Revolution Wind project lease.
+
+On the data front, euro zone factory activity retreated further into contraction territory in December as production decreased for the first time in 10 months.",Energy,0.0590197562635672,"{'Energy': 0.05902, 'Technology': 0.04276, 'Communication Services': 0.0335}",3,,"Energy, Technology, Communication Services",0.85,0.85,0.85,"European shares reached record highs in early 2026, driven by strong performances in the tech and defense sectors, following a robust 2025 marked by falling interest rates and a shift away from overvalued U.S. tech stocks."
+1,2026-01-02 17:22:10,Investing.com,Pinterest stock rises after The Information predicts OpenAI acquisition,https://www.investing.com/news/stock-market-news/pinterest-stock-rises-after-the-information-predicts-openai-acquisition-93CH-4428039,"Investing.com -- Pinterest Inc (NYSE:PINS) stock rose 3% on Friday after The Information predicted that OpenAI would acquire the social media platform in 2026.
+
+In a report titled ""Sutskever’s Fate, OpenAI’s Next Deal, A Hit Robot—and 13 Other Predictions for 2026,"" The Information’s reporter Ann Gehan suggested that OpenAI would make Pinterest its ""biggest acquisition yet"" to strengthen its online shopping and advertising businesses.
+
+According to Gehan, OpenAI would be primarily interested in Pinterest’s image data repository, existing advertising infrastructure, and established merchant relationships. She noted that Pinterest’s digital scrapbooking features could complement OpenAI’s image and video generation tools while helping it compete against other AI leaders like Google.
+
+The report pointed out that Pinterest shares are trading around $25, similar to early 2023 levels, giving the company a market capitalization of approximately $17.5 billion. It also highlighted that Pinterest co-founders Ben Silbermann and Paul Sciarra control roughly two-thirds of the company’s voting shares, with Silbermann no longer involved in day-to-day operations since stepping down as CEO in mid-2022.
+
+While Pinterest has implemented AI features like conversational search to compete with ChatGPT and similar platforms, the prediction suggests OpenAI might see more value in acquiring the company outright rather than competing against it.",Communication Services,0.0523128960377428,"{'Communication Services': 0.05231, 'Technology': 0.02272}",2,,"Communication Services, Technology",0.75,0.7,0.75,Pinterest's stock increased by 3% following a prediction by The Information that OpenAI intends to acquire the social media platform in 2026 to bolster its AI capabilities and online commerce presence.
+1,2026-01-02 17:17:37,Investing.com,Ardelyx stock jumps as Raymond James notes price hikes,https://www.investing.com/news/stock-market-news/ardelyx-stock-jumps-as-raymond-james-notes-price-hikes-93CH-4428034,"Investing.com -- Ardelyx Inc (NASDAQ:ARDX) stock rose 7.6% on Friday after Raymond James reiterated a Strong Buy rating and $16.00 price target on the biopharmaceutical company.
+
+The positive momentum came after analyst Chris Raymond noted price increases for both of Ardelyx’s key products, Xphozah and Ibsrela, effective January 1, 2026, according to PriceRx data. The price hikes appear more aggressive than previous adjustments, with Ibsrela increasing 9% compared to 5% last year, while Xphozah will see an 8% increase versus 7% previously.
+
+Raymond James recently raised estimates for both medications following positive survey feedback indicating increasing usage patterns. While the impact on net pricing remains uncertain, the analyst believes these price adjustments provide additional support for the firm’s bullish commercial outlook on Ardelyx.
+
+The price target of $16 represents significant potential upside from current levels for the kidney and gastrointestinal disease-focused company. Ardelyx has been gaining traction with its commercial portfolio, particularly with Xphozah, which treats hyperphosphatemia in chronic kidney disease patients on dialysis, and Ibsrela for irritable bowel syndrome with constipation.",Other,0.0187897529316168,{'Other': 0.0},0,Healthcare,Healthcare,0.85,0.8,0.85,"Ardelyx Inc's stock surged 7.6% following Raymond James's reiteration of a Strong Buy rating and a $16.00 price target, noting aggressive price hikes for its key products Xphozah and Ibsrela, which are expected to bolster the company"
+1,2026-01-02 17:12:35,Investing.com,European stocks pull back from record as 2026 begins; 2025 manufacturing shrinks,https://www.investing.com/news/stock-market-news/european-stocks-hit-record-as-2026-begins-eurozone-manufacturing-shrinks-in-2025-4427423,"Investing.com -- At the start of Friday’s session, European shares climbed to record highs, opening 2026 on a positive note as investors assessed eurozone manufacturing data and UK housing figures. However, while European indices closed the day higher, they pulled back from their highs.
+
+The STOXX 600 rose 0.6%, while Britain’s FTSE 100 closed up 0.2%, easing to 9,951.14 points after briefly topping the 10,000 mark. Germany’s DAX advanced 0.1%, and France’s CAC 40 gained 0.6%.
+
+However, the eurozone manufacturing sector faced challenges at the end of 2025, with production levels decreasing for the first time since February. According to HCOB PMI data released Friday, the Eurozone Manufacturing PMI fell to 48.8 in December from 49.6 in November, hitting a nine-month low and signaling worsening factory conditions.
+
+In the UK, house prices unexpectedly dropped 0.4% in December, resulting in just 0.6% annual growth for 2025 - the weakest yearly increase since April 2024, Nationwide Building Society reported.
+
+Economists had expected a 0.1% monthly rise and 1.2% year-over-year growth. This marked a significant slowdown from November, when prices had risen 0.3% month-on-month and were 1.8% higher than a year earlier.
+
+UK manufacturing expanded for a second month in December, with the PMI at a 15-month high of 50.6, driven by higher output, new domestic orders, and inventory building, mainly among large firms.
+
+However, exports and employment continued to fall, costs rose, and business confidence weakened, casting doubt on the durability of the recovery.
+
+Euro area money supply growth picked up in November, with M3 rising 3% and M1 remaining the main driver, while short-term deposits fell slightly.
+
+Bank lending to households and non-financial corporations also increased, with annual growth rates of 2.9% and 3.1%, supporting broader credit expansion.
+
+In renewable energy news, Revolution Wind LLC filed a supplemental complaint Thursday challenging a lease suspension order from the Bureau of Ocean Energy Management. The joint venture between Global Infrastructure Partners’ Skyborn Renewables and Oersted AS (CSE:ORSTED) plans to seek a preliminary injunction against the December 22 order. The company, which is 50% owned by Oersted, stated it believes the lease suspension violates applicable law and harms the project.
+
+Meanwhile, Tesla ’s December 2025 registrations fell sharply in France and Sweden but surged 89% in Norway, highlighting uneven demand across Europe.
+
+The Texas-headquartered company’s European market share declined to 1.7% as weaker performance outside Norway contrasted with record sales in the country, where EV adoption is near total.
+
+In retail news, Lidl GB reported a 10% year-on-year increase in Christmas sales, with turnover exceeding £1.1 billion ($1.48 billion) for the four weeks to December 24.
+
+The British arm of the German supermarket group, which ranks as Britain’s sixth-biggest grocer, said nearly 51 million customers visited its stores during the period, representing an 8% increase compared to the previous year.
+
+ASML shares rose 3% after Aletheia Capital upgraded the stock to “buy” and doubled its price target to $1,500, citing strong demand for EUV lithography tools.
+
+The brokerage expects TSMC to drive significant EUV installations, with ASML’s revenue and earnings projected to accelerate sharply through 2027, well above consensus estimates.",Industrials,0.0542183581455161,"{'Industrials': 0.05422, 'Energy': 0.0451, 'Financials': 0.03909}",3,,"Industrials, Energy, Financials",0.05,-0.45,-0.6,"European stocks opened 2026 at record highs but retreated slightly by the end of the day, despite positive index gains, amid concerns over shrinking eurozone manufacturing and a decline in UK house prices."
+1,2026-01-02 17:10:32,Investing.com,U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.34%,https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-034-4428027,"Investing.com – U.K. stocks were higher after the close on Friday, as gains in the Aerospace & Defense , Electrical and Chemicals sectors led shares higher.
+
+At the close in London, the Investing.com United Kingdom 100 gained 0.34% to hit a new all time high.
+
+The best performers of the session on the Investing.com United Kingdom 100 were Rolls-Royce Holdings PLC (LON: RR ), which rose 4.09% or 47.00 points to trade at 1,197.00 at the close. Meanwhile, Melrose Industries PLC (LON: MRON ) added 3.67% or 21.60 points to end at 610.00 and Centrica PLC (LON: CNA ) was up 2.83% or 4.80 points to 174.35 in late trade.
+
+The worst performers of the session were Sage Group PLC (LON: SGE ), which fell 3.05% or 33.00 points to trade at 1,050.00 at the close. Pearson PLC (LON: PSON ) declined 2.91% or 30.50 points to end at 1,019.50 and B&M European Value Retail SA (LON: BMEB ) was down 2.28% or 3.85 points to 164.95.
+
+Rising stocks outnumbered declining ones on the London Stock Exchange by 1003 to 714 and 557 ended unchanged.
+
+Shares in Rolls-Royce Holdings PLC (LON: RR ) rose to 5-year highs; gaining 4.09% or 47.00 to 1,197.00.
+
+Gold Futures for February delivery was down 0.03% or 1.20 to $4,339.90 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 1.10% or 0.63 to hit $56.79 a barrel, while the March Brent oil contract fell 1.10% or 0.67 to trade at $60.18 a barrel.
+
+GBP/USD was unchanged 0.04% to 1.35, while EUR/GBP unchanged 0.21% to 0.87.
+
+The US Dollar Index Futures was up 0.03% at 98.08.",Industrials,0.03818117218693,"{'Industrials': 0.03818, 'Basic Materials': 0.02496}",2,,"Industrials, Basic Materials",0.65,0.63,0.65,"U.K. stocks closed higher on Friday, with the Investing.com United Kingdom 100 reaching a new all-time high, driven by gains in the Aerospace & Defense, Electrical, and Chemicals sectors despite some decliners."
+1,2026-01-02 17:10:30,Investing.com,U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.34%,https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-034-4428026,"Investing.com – U.K. stocks were higher after the close on Friday, as gains in the Aerospace & Defense , Electrical and Chemicals sectors led shares higher.
+
+At the close in London, the Investing.com United Kingdom 100 gained 0.34% to hit a new all time high.
+
+The best performers of the session on the Investing.com United Kingdom 100 were Rolls-Royce Holdings PLC (LON: RR ), which rose 4.09% or 47.00 points to trade at 1,197.00 at the close. Meanwhile, Melrose Industries PLC (LON: MRON ) added 3.67% or 21.60 points to end at 610.00 and Centrica PLC (LON: CNA ) was up 2.83% or 4.80 points to 174.35 in late trade.
+
+The worst performers of the session were Sage Group PLC (LON: SGE ), which fell 3.05% or 33.00 points to trade at 1,050.00 at the close. Pearson PLC (LON: PSON ) declined 2.91% or 30.50 points to end at 1,019.50 and B&M European Value Retail SA (LON: BMEB ) was down 2.28% or 3.85 points to 164.95.
+
+Rising stocks outnumbered declining ones on the London Stock Exchange by 1003 to 714 and 557 ended unchanged.
+
+Shares in Rolls-Royce Holdings PLC (LON: RR ) rose to 5-year highs; rising 4.09% or 47.00 to 1,197.00.
+
+Gold Futures for February delivery was down 0.03% or 1.30 to $4,339.80 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 1.10% or 0.63 to hit $56.79 a barrel, while the March Brent oil contract fell 1.10% or 0.67 to trade at $60.18 a barrel.
+
+GBP/USD was unchanged 0.04% to 1.35, while EUR/GBP unchanged 0.21% to 0.87.
+
+The US Dollar Index Futures was up 0.03% at 98.08.",Industrials,0.0380768418014927,"{'Industrials': 0.03808, 'Basic Materials': 0.02489}",2,,"Industrials, Basic Materials",0.75,0.64,0.65,"U.K. stocks closed higher on Friday, with the Investing.com United Kingdom 100 reaching a new all-time high, driven by gains in the Aerospace & Defense, Electrical, and Chemicals sectors despite some decliners."
+2,2026-01-02 17:09:18,Investing.com,Portugal stocks higher at close of trade; PSI up 1.66%,https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-166-4428023,"Investing.com – Portugal stocks were higher after the close on Friday, as gains in the Technology , Utilities and Basic Materials sectors led shares higher.
+
+At the close in Lisbon, the PSI rose 1.66% to hit a new 1-month high.
+
+The best performers of the session on the PSI were EDP Renovaveis (ELI: EDPR ), which rose 4.49% or 0.54 points to trade at 12.58 at the close. Meanwhile, Semapa (ELI: SEM ) added 3.11% or 0.65 points to end at 21.55 and Corticeira Amorim (ELI: CORA ) was up 3.03% or 0.20 points to 6.81 in late trade.
+
+The worst performers of the session were CTT Correios de Portugal SA (ELI: CTT ), which fell 0.13% or 0.01 points to trade at 7.42 at the close. Ibersol SGPS (ELI: IBS ) unchanged 0.00% or 0.00 points to end at 9.90 and Galp Energia Nom (ELI: GALP ) was up 0.17% or 0.03 points to 14.66.
+
+Rising stocks outnumbered declining ones on the Lisbon Stock Exchange by 24 to 3 and 4 ended unchanged.
+
+Brent oil for March delivery was down 1.05% or 0.64 to $60.21 a barrel. Elsewhere in commodities trading, Crude oil for delivery in February fell 1.04% or 0.60 to hit $56.82 a barrel, while the February Gold Futures contract fell 0.04% or 1.95 to trade at $4,339.15 a troy ounce.
+
+EUR/USD was unchanged 0.15% to 1.17, while EUR/GBP unchanged 0.21% to 0.87.
+
+The US Dollar Index Futures was up 0.04% at 98.08.",Basic Materials,0.0289551842796442,"{'Basic Materials': 0.02896, 'Utilities': 0.02326}",2,,"Basic Materials, Utilities",0.75,0.83,0.75,"Portugal's stock market closed higher on Friday, with the PSI index rising 1.66% to a one-month high, driven by gains in technology, utilities, and basic materials sectors."
+2,2026-01-02 17:08:59,Investing.com,Ken Griffin’s Citadel flagship fund up 10.2% in 2025,https://www.investing.com/news/stock-market-news/ken-griffins-citadel-flagship-fund-up-102-in-2025-4428022,"Investing.com -- Ken Griffin’s flagship hedge fund at Citadel posted a 10.2% gain in 2025, navigating a volatile year marked by sharp market swings and trade tensions.
+
+The Wellington fund, which is Citadel’s largest multistrategy fund, achieved this double-digit returnm according to a CNBC report Friday that cited a person familiar with the matter.
+
+Citadel’s tactical trading fund, which combines equities with quantitative strategies, performed better, with an 18.6% advance in 2025.
+
+Other Citadel funds also delivered strong results. The fundamental equity strategy returned 14.5%, while the global fixed income fund gained 9.4%.
+
+These results came during a year when the S&P 500 secured a 16.4% gain, marking its third consecutive year of double-digit annual advances.",Financials,0.0880593566504829,{'Financials': 0.08806},1,,Financials,0.85,0.8,0.8,"Ken Griffin's Citadel hedge funds, including its flagship fund which gained 10.2% in 2025, achieved strong performances across various strategies despite market volatility, outpacing the S&P 500's 16.4% gain for the year."
+2,2026-01-02 17:08:36,Investing.com,Netherlands stocks higher at close of trade; AEX up 1.71%,https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-171-4428021,"Investing.com – Netherlands stocks were higher after the close on Friday, as gains in the Technology , Basic Materials and Oil & Gas sectors led shares higher.
+
+At the close in Amsterdam, the AEX rose 1.71% to hit a new 1-month high.
+
+The best performers of the session on the AEX were BE Semiconductor Industries NV (AS: BESI ), which rose 11.48% or 15.35 points to trade at 149.10 at the close. Meanwhile, ASML Holding NV (AS: ASML ) added 7.04% or 64.90 points to end at 986.30 and ASM International NV (AS: ASMI ) was up 6.99% or 36.20 points to 553.80 in late trade.
+
+The worst performers of the session were CVC Capital Partners PLC (AS: CVC ), which fell 1.89% or 0.27 points to trade at 14.03 at the close. Universal Music Group NV (AS: UMG ) declined 1.26% or 0.28 points to end at 21.95 and Relx PLC (AS: REL ) was down 1.10% or 0.38 points to 34.30.
+
+Rising stocks outnumbered declining ones on the Amsterdam Stock Exchange by 69 to 26 and 10 ended unchanged.
+
+Shares in BE Semiconductor Industries NV (AS: BESI ) rose to 52-week highs; up 11.48% or 15.35 to 149.10. Shares in ASML Holding NV (AS: ASML ) rose to 52-week highs; up 7.04% or 64.90 to 986.30.
+
+The AEX Volatility , which measures the implied volatility of AEX options, was unchanged 0.00% to 21.09.
+
+Crude oil for February delivery was down 1.08% or 0.62 to $56.80 a barrel. Elsewhere in commodities trading, Brent oil for delivery in March fell 1.08% or 0.66 to hit $60.19 a barrel, while the February Gold Futures contract fell 0.04% or 1.95 to trade at $4,339.15 a troy ounce.
+
+EUR/USD was unchanged 0.15% to 1.17, while EUR/GBP unchanged 0.21% to 0.87.
+
+The US Dollar Index Futures was up 0.04% at 98.09.",Energy,0.0248661594041464,"{'Energy': 0.02487, 'Basic Materials': 0.02413}",2,,"Energy, Basic Materials",0.75,0.71,0.85,"Netherlands stocks closed higher on Friday, with the AEX index rising 1.71% to a new one-month high, driven by gains in technology, basic materials, and oil & gas sectors, particularly from companies like BE Semiconductor Industries NV and ASML Holding NV."
+2,2026-01-02 17:08:00,Investing.com,Italy stocks higher at close of trade; Investing.com Italy 40 up 0.80%,https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-080-4428020,"Investing.com – Italy stocks were higher after the close on Friday, as gains in the Technology , Industrials and Utilities sectors led shares higher.
+
+At the close in Milan, the Investing.com Italy 40 gained 0.80% to hit a new all time high.
+
+The best performers of the session on the Investing.com Italy 40 were STMicroelectronics (BIT: STMMI ), which rose 4.25% or 0.95 points to trade at 23.43 at the close. Meanwhile, Leonardo SpA (BIT: LDOF ) added 4.19% or 2.06 points to end at 51.22 and Prysmian SpA (BIT: PRY ) was up 4.05% or 3.50 points to 89.88 in late trade.
+
+The worst performers of the session were Nexi SpA (BIT: NEXII ), which fell 1.68% or 0.07 points to trade at 4.15 at the close. Telecom Italia (BIT: TLIT ) declined 1.52% or 0.01 points to end at 0.51 and Brunello Cucinelli (BIT: BCU ) was down 1.28% or 1.26 points to 97.16.
+
+Rising stocks outnumbered declining ones on the Milan Stock Exchange by 389 to 314 and 49 ended unchanged.
+
+Crude oil for February delivery was down 1.11% or 0.64 to $56.78 a barrel. Elsewhere in commodities trading, Brent oil for delivery in March fell 1.13% or 0.69 to hit $60.16 a barrel, while the February Gold Futures contract fell 0.06% or 2.40 to trade at $4,338.70 a troy ounce.
+
+EUR/USD was unchanged 0.15% to 1.17, while EUR/GBP unchanged 0.19% to 0.87.
+
+The US Dollar Index Futures was up 0.04% at 98.09.",Utilities,0.023254060396745,{'Utilities': 0.02325},1,,Utilities,0.75,0.65,0.75,"Italy's stock market closed higher on Friday, with the Investing.com Italy 40 index reaching an all-time high, driven by gains in technology, industrial, and utility sectors despite some declines in individual stocks like Nexi SpA and Telecom Italia."
+2,2026-01-02 17:07:28,Investing.com,"FTSE 100 today: Index closes below 10,000, pound rises; UK factory PMI up",https://www.investing.com/news/stock-market-news/ftse-100-today-index-up-on-first-trading-day-uk-house-prices-fall-in-dec-4427384,"Investing.com -- As trading resumed in the new year, Britain’s FTSE 100 briefly climbed above the 10,000 mark for the first time on Friday, rising in tandem with broader gains across Europe after the holiday lull.
+
+However, the blue-chip index FTSE 100 closed below the key level despite rising 0.2% on the day. The British GBP/USD gained 0.1% against the dollar, trading around 1.3475.
+
+Meanwhile, the DAX index in Germany rose 0.1%, the CAC 40 in France gained 0.6%.
+
+Britain’s FTSE 100 index surpassed 10,000 points for the first time on Friday, as trading resumed after the New Year’s Day holiday.
+
+Despite failing to close above the level, the blue-chip index had earlier climbed 1.1% to reach 10,039.05 points at 04:12 ET (09:12 GMT). The milestone follows a year in which the index gained over 1,750 points during 2025, ending the year at 9,931.38 points and delivering an annual gain of 21.51%, its strongest yearly performance since 2009.
+
+The UK manufacturing sector showed further signs of recovery in December as the S&P Global UK Manufacturing Purchasing Managers’ Index rose to 50.6 from 50.2 in November, marking a 15-month high.
+
+The PMI has now posted above the neutral 50.0 mark for two consecutive months, indicating expansion in the manufacturing sector. The December reading was below the earlier flash estimate of 51.2.
+
+UK house prices fall unexpectedly in December, annual growth slows
+
+British house prices unexpectedly fell by 0.4% in December, ending 2025 with just 0.6% annual growth, the weakest yearly increase since April 2024, according to data released Friday by mortgage lender Nationwide Building Society.
+
+The December decline contrasted with economist expectations of a 0.1% monthly rise, which would have resulted in a 1.2% year-over-year increase compared to December 2024.
+
+The housing market showed a significant slowdown from November, when prices had risen 0.3% month-on-month and were 1.8% higher than the same period a year earlier.
+
+Revolution Wind to file preliminary injunction against lease suspension
+
+Revolution Wind LLC, a joint venture between Global Infrastructure Partners’ Skyborn Renewables and Ørsted , filed a supplemental complaint on Thursday challenging a lease suspension order issued by the Bureau of Ocean Energy Management (BOEM).
+
+The company plans to follow this with a motion for a preliminary injunction against the December 22, 2025 order from the U.S. Department of the Interior’s BOEM.
+
+Revolution Wind, which is 50% owned by Ørsted, stated that while it seeks to work with the Administration toward a resolution, it believes the lease suspension order violates applicable law and causes substantial harm to the project.",Energy,0.0408959060633812,"{'Energy': 0.0409, 'Financials': 0.03306, 'Industrials': 0.03185}",3,,"Energy, Financials, Industrials",0.05,0.05,0.3,"The FTSE 100 briefly surpassed 10,000 points upon reopening but closed below this mark, while the pound strengthened slightly and UK factory activity indicated improvement."
+2,2026-01-02 17:06:45,Investing.com,Germany stocks higher at close of trade; DAX up 0.14%,https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-014-4428019,"Investing.com – Germany stocks were higher after the close on Friday, as gains in the Utilities , Technology and Industrials sectors led shares higher.
+
+At the close in Frankfurt, the DAX gained 0.14% to hit a new 1-month high, while the MDAX index climbed 1.04%, and the TecDAX index climbed 0.05%.
+
+The best performers of the session on the DAX were MTU Aero Engines NA O.N. (ETR: MTXGn ), which rose 4.48% or 15.90 points to trade at 371.20 at the close. Meanwhile, RWE AG ST O.N. (ETR: RWEG ) added 3.65% or 1.65 points to end at 46.91 and Bayerische Motoren Werke AG (ETR: BMWG ) was up 3.41% or 3.18 points to 96.32 in late trade.
+
+The worst performers of the session were Munich Reinsurance (ETR: MUVGn ), which fell 3.88% or 21.80 points to trade at 540.40 at the close. Hannover Rueck SE (ETR: HNRGn ) declined 3.53% or 9.40 points to end at 256.80 and SAP SE (ETR: SAPG ) was down 3.07% or 6.40 points to 201.95.
+
+The top performers on the MDAX were Aixtron SE (ETR: AIXGn ) which rose 13.20% to 19.59, TKMS GmbH (ETR: TKMS ) which was up 4.99% to settle at 69.40 and Thyssenkrupp AG O.N. (ETR: TKAG ) which gained 4.81% to close at 9.72.
+
+The worst performers were Nemetschek AG O.N. (ETR: NEKG ) which was down 2.69% to 90.30 in late trade, TeamViewer AG (ETR: TMV ) which lost 2.31% to settle at 5.91 and LEG Immobilien AG (ETR: LEGn ) which was down 1.37% to 61.40 at the close.
+
+The top performers on the TecDAX were Aixtron SE (ETR: AIXGn ) which rose 13.20% to 19.59, SMA Solar Technology AG (ETR: S92G ) which was up 4.93% to settle at 35.76 and SUSS MicroTec SE (ETR: SMHNn ) which gained 4.34% to close at 40.84.
+
+The worst performers were SAP SE (ETR: SAPG ) which was down 3.07% to 201.95 in late trade, Nemetschek AG O.N. (ETR: NEKG ) which lost 2.69% to settle at 90.30 and TeamViewer AG (ETR: TMV ) which was down 2.31% to 5.91 at the close.
+
+Rising stocks outnumbered declining ones on the Frankfurt Stock Exchange by 370 to 270 and 27 ended unchanged.
+
+Shares in RWE AG ST O.N. (ETR: RWEG ) rose to 5-year highs; rising 3.65% or 1.65 to 46.91. Shares in SAP SE (ETR: SAPG ) fell to 52-week lows; down 3.07% or 6.40 to 201.95. Shares in Aixtron SE (ETR: AIXGn ) rose to 52-week highs; gaining 13.20% or 2.29 to 19.59. Shares in Aixtron SE (ETR: AIXGn ) rose to 52-week highs; up 13.20% or 2.29 to 19.59. Shares in SAP SE (ETR: SAPG ) fell to 52-week lows; losing 3.07% or 6.40 to 201.95.
+
+The DAX volatility index , which measures the implied volatility of DAX options, was down 1.45% to 14.78.
+
+Gold Futures for February delivery was up 0.02% or 1.00 to $4,342.10 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 1.04% or 0.60 to hit $56.82 a barrel, while the March Brent oil contract fell 1.07% or 0.65 to trade at $60.20 a barrel.
+
+EUR/USD was unchanged 0.13% to 1.17, while EUR/GBP unchanged 0.19% to 0.87.
+
+The US Dollar Index Futures was up 0.02% at 98.07.",Other,0.0093107975489187,{'Other': 0.0},0,Other,Other,0.6,0.55,0.65,"German stocks closed higher on Friday, with the DAX rising 0.14% to a one-month high, driven by gains in the Utilities, Technology, and Industrials sectors, despite some notable declines in individual stocks like Munich Reinsurance and SAP SE."
+2,2026-01-02 17:05:45,Investing.com,France stocks higher at close of trade; CAC 40 up 0.56%,https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-056-4428014,"Investing.com – France stocks were higher after the close on Friday, as gains in the Utilities , Industrials and Oil & Gas sectors led shares higher.
+
+At the close in Paris, the CAC 40 rose 0.56% to hit a new 1-month high, while the SBF 120 index gained 0.52%.
+
+The best performers of the session on the CAC 40 were STMicroelectronics NV (EPA: STMPA ), which rose 4.46% or 1.00 points to trade at 23.44 at the close. Meanwhile, Safran SA (EPA: SAF ) added 3.30% or 9.80 points to end at 307.20 and Stellantis NV (EPA: STLAM ) was up 3.27% or 0.31 points to 9.71 in late trade.
+
+The worst performers of the session were Dassault Systemes SE (EPA: DAST ), which fell 1.85% or 0.44 points to trade at 23.40 at the close. EssilorLuxottica SA (EPA: ESLX ) declined 1.63% or 4.40 points to end at 265.50 and Bureau Veritas SA (EPA: BVI ) was down 1.25% or 0.34 points to 26.84.
+
+The top performers on the SBF 120 were Soitec SA (EPA: SOIT ) which rose 7.24% to 24.87, Eramet SA (EPA: ERMT ) which was up 6.85% to settle at 61.60 and Air France KLM SA (EPA: AIRF ) which gained 6.14% to close at 12.28.
+
+The worst performers were Solutions 30 SE (EPA: S30 ) which was down 3.38% to 0.99 in late trade, Mercialys SA (EPA: MERY ) which lost 3.26% to settle at 10.68 and Euroapi SAS (EPA: EAPI ) which was down 3.08% to 2.20 at the close.
+
+Rising stocks outnumbered declining ones on the Paris Stock Exchange by 283 to 197 and 76 ended unchanged.
+
+The CAC 40 VIX , which measures the implied volatility of CAC 40 options, was unchanged 0.00% to 18.96 a new 52-week high.
+
+Gold Futures for February delivery was up 0.05% or 2.05 to $4,343.15 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 1.08% or 0.62 to hit $56.80 a barrel, while the March Brent oil contract fell 1.10% or 0.67 to trade at $60.18 a barrel.
+
+EUR/USD was unchanged 0.14% to 1.17, while EUR/GBP unchanged 0.21% to 0.87.
+
+The US Dollar Index Futures was up 0.03% at 98.07.",Utilities,0.0208532344582723,{'Utilities': 0.02085},1,,Utilities,0.75,0.64,0.65,"France's stock market closed higher on Friday, with the CAC 40 rising 0.56% to a one-month high, driven by gains in the Utilities, Industrials, and Oil & Gas sectors, despite some individual stocks experiencing declines."
+2,2026-01-02 17:05:04,Investing.com,Belgium stocks higher at close of trade; BEL 20 up 0.67%,https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-067-4428012,"Investing.com – Belgium stocks were higher after the close on Friday, as gains in the Utilities , Basic Materials and Financials sectors led shares higher.
+
+At the close in Brussels, the BEL 20 gained 0.67% to hit a new all time high.
+
+The best performers of the session on the BEL 20 were Lotus Bakeries (EBR: LOTB ), which rose 4.71% or 370.00 points to trade at 8,220.00 at the close. Meanwhile, Umicore SA (EBR: UMI ) added 3.85% or 0.69 points to end at 18.59 and Elia (EBR: ELI ) was up 2.28% or 2.50 points to 112.20 in late trade.
+
+The worst performers of the session were UCB SA (EBR: UCB ), which fell 1.84% or 4.40 points to trade at 234.20 at the close. Montea C.V.A. (EBR: MONTE ) declined 1.78% or 1.30 points to end at 71.90 and Anheuser Busch Inbev SA NV (EBR: ABI ) was down 0.91% or 0.50 points to 54.40.
+
+Rising stocks outnumbered declining ones on the Brussels Stock Exchange by 58 to 43 and 8 ended unchanged.
+
+Shares in Umicore SA (EBR: UMI ) rose to 52-week highs; rising 3.85% or 0.69 to 18.59. Shares in Elia (EBR: ELI ) rose to 52-week highs; up 2.28% or 2.50 to 112.20.
+
+Gold Futures for February delivery was up 0.06% or 2.80 to $4,343.90 a troy ounce. Elsewhere in commodities trading, Crude oil for delivery in February fell 1.10% or 0.63 to hit $56.79 a barrel, while the March Brent oil contract fell 1.12% or 0.68 to trade at $60.17 a barrel.
+
+EUR/USD was unchanged 0.13% to 1.17, while EUR/GBP unchanged 0.21% to 0.87.
+
+The US Dollar Index Futures was up 0.02% at 98.07.",Basic Materials,0.0236881459457444,{'Basic Materials': 0.02369},1,,Basic Materials,0.75,0.73,0.75,"Belgium's stock market closed higher on Friday, with the BEL 20 index reaching an all-time high, up 0.67%, driven by gains in the Utilities, Basic Materials, and Financials sectors."
+2,2026-01-02 17:00:43,Investing.com,Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.06%,https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-006-4428005,"Investing.com – Sweden stocks were lower after the close on Friday, as losses in the Healthcare , Telecoms and Financials sectors led shares lower.
+
+At the close in Stockholm, the OMX Stockholm 30 lost 0.06%.
+
+The best performers of the session on the OMX Stockholm 30 were SAAB AB ser. B (ST: SAABb ), which rose 4.13% or 22.20 points to trade at 559.80 at the close. Meanwhile, Skanska AB ser. B (ST: SKAb ) added 2.18% or 5.50 points to end at 257.80 and Nordea Bank Abp (ST: NDASE ) was up 1.64% or 2.85 points to 176.80 in late trade.
+
+The worst performers of the session were Lifco publ AB (ST: LIFCOb ), which fell 3.18% or 11.20 points to trade at 340.80 at the close. Addtech (ST: ADDTb ) declined 2.75% or 9.00 points to end at 318.40 and Telefonaktiebolaget LM Ericsson Class B (ST: ERICb ) was down 2.54% or 2.30 points to 88.30.
+
+Falling stocks outnumbered advancing ones on the Stockholm Stock Exchange by 383 to 369 and 66 ended unchanged.
+
+Shares in Nordea Bank Abp (ST: NDASE ) rose to all time highs; rising 1.64% or 2.85 to 176.80.
+
+Crude oil for February delivery was down 1.13% or 0.65 to $56.77 a barrel. Elsewhere in commodities trading, Brent oil for delivery in March fell 1.15% or 0.70 to hit $60.15 a barrel, while the February Gold Futures contract fell 0.03% or 1.40 to trade at $4,339.70 a troy ounce.
+
+EUR/SEK was unchanged 0.03% to 10.81, while USD/SEK rose 0.09% to 9.21.
+
+The US Dollar Index Futures was up 0.01% at 98.05.",Other,0.0130624832860646,{'Other': 0.0},0,Other,Other,0.05,0.0,-0.35,"Sweden's stock market closed lower on Friday, with the OMX Stockholm 30 index declining by 0.06%, driven by losses in the Healthcare, Telecoms, and Financials sectors despite some gains in individual stocks like SAAB AB and Skanska AB."
+2,2026-01-02 17:00:04,Investing.com,Finland stocks higher at close of trade; OMX Helsinki 25 up 0.58%,https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-058-4428003,"Investing.com – Finland stocks were higher after the close on Friday, as gains in the Oil & Gas , Utilities and Consumer Services sectors led shares higher.
+
+At the close in Helsinki, the OMX Helsinki 25 added 0.58% to hit a new 3-years high.
+
+The best performers of the session on the OMX Helsinki 25 were SSAB AB B (HE: SSABBH ), which rose 4.28% or 0.28 points to trade at 6.72 at the close. Meanwhile, Neste Oyj (HE: NESTE ) added 3.25% or 0.63 points to end at 20.04 and Outokumpu Oyj (HE: OUT1V ) was up 3.04% or 0.14 points to 4.62 in late trade.
+
+The worst performers of the session were Qt Group Oyj (HE: QTCOM ), which fell 2.79% or 0.92 points to trade at 32.02 at the close. Elisa Oyj (HE: ELISA ) declined 1.64% or 0.62 points to end at 37.12 and Kojamo (HE: KOJAMO ) was down 1.47% or 0.15 points to 10.08.
+
+Rising stocks outnumbered declining ones on the Helsinki Stock Exchange by 112 to 63 and 15 ended unchanged.
+
+Shares in SSAB AB B (HE: SSABBH ) rose to 52-week highs; up 4.28% or 0.28 to 6.72. Shares in Neste Oyj (HE: NESTE ) rose to 52-week highs; up 3.25% or 0.63 to 20.04. Shares in Outokumpu Oyj (HE: OUT1V ) rose to 52-week highs; up 3.04% or 0.14 to 4.62.
+
+Brent oil for March delivery was down 1.13% or 0.69 to $60.16 a barrel. Elsewhere in commodities trading, Crude oil for delivery in February fell 1.11% or 0.64 to hit $56.78 a barrel, while the February Gold Futures contract fell 0.09% or 3.85 to trade at $4,337.25 a troy ounce.
+
+EUR/USD was unchanged 0.10% to 1.17, while EUR/GBP unchanged 0.21% to 0.87.
+
+The US Dollar Index Futures was unchanged 0.00% at 98.05.",Energy,0.0265190569618665,"{'Energy': 0.02652, 'Utilities': 0.02482}",2,,"Energy, Utilities",0.75,0.73,0.75,"Finland's OMX Helsinki 25 index closed higher by 0.58%, reaching a three-year high, driven by gains in the Oil & Gas, Utilities, and Consumer Services sectors, despite some decliners like Qt Group Oyj."
+2,2026-01-02 16:53:38,Investing.com,Ironwood Pharmaceuticals stock soars on strong 2026 guidance,https://www.investing.com/news/stock-market-news/ironwood-pharmaceuticals-stock-soars-on-strong-2026-guidance-93CH-4428001,"Investing.com -- Ironwood Pharmaceuticals Inc (NASDAQ:IRWD) stock surged 32.7% Friday after the biotechnology company issued robust financial guidance for 2026, projecting significant growth in LINZESS sales and adjusted EBITDA.
+
+The company expects LINZESS U.S. net sales to reach between $1.125 billion and $1.175 billion in 2026, a substantial increase from its 2025 guidance of $860-$890 million. The projected growth is attributed to improved net pricing and low-single digit percentage demand growth, following a strategic list price reduction effective January 1, 2026.
+
+Total revenue for 2026 is forecast to be between $450 million and $475 million, up from the 2025 guidance of $290-$310 million. Additionally, Ironwood anticipates adjusted EBITDA to exceed $300 million in 2026, more than double its 2025 projection of over $135 million.
+
+""We remain focused on our core priorities of maximizing LINZESS, advancing apraglutide and delivering sustained profits and cash flows,"" said Tom McCourt, chief executive officer of Ironwood. The company indicated it ended the fourth quarter of 2025 with over $200 million in cash and cash equivalents.
+
+Ironwood also reported progress on its pipeline, noting plans to initiate a confirmatory Phase 3 trial of apraglutide for the treatment of short bowel syndrome with intestinal failure in the first half of 2026.
+
+The company continues to pursue its previously announced strategic alternatives review, aiming to maximize shareholder value. For 2025, Ironwood maintained its earlier guidance, expecting to achieve the low-end of its full-year LINZESS U.S. net sales and total revenue targets.",Healthcare,0.0262410035949233,{'Healthcare': 0.02624},1,,Healthcare,0.85,0.93,0.85,"Ironwood Pharmaceuticals' stock soared 32.7% following the announcement of strong 2026 financial guidance, projecting significant growth in LINZESS sales and adjusted EBITDA."
+2,2026-01-02 16:41:34,Investing.com,Brazil’s antitrust body opens investigation into Microsoft,https://www.investing.com/news/stock-market-news/brazils-antitrust-body-opens-investigation-into-microsoft-93CH-4427994,"Investing.com -- Brazil’s antitrust regulator Cade has launched an investigation into Microsoft regarding its software and cloud computing services, according to a report by Valor Economico on Friday.
+
+The investigation will examine suspected anti-competitive practices involving issues with Microsoft ’s software licensing in rival cloud services.
+
+According to official documents, Cade will look into potential problems that may be affecting competition in the cloud computing market.",Technology,0.1441108768368365,{'Technology': 0.14411},1,,Technology,-0.6,-0.6,-0.7,Brazil’s antitrust regulator Cade has initiated an investigation into Microsoft over suspected anti-competitive practices related to its software licensing and impact on the cloud computing market.
+2,2026-01-02 16:35:04,Investing.com,Schonfeld Strategic Advisors flagship fund posts 12.5% return for 2025,https://www.investing.com/news/stock-market-news/schonfeld-strategic-advisors-flagship-fund-posts-125-return-for-2025-93CH-4427984,"Investing.com -- Schonfeld Strategic Advisors’s flagship fund Strategic Partners delivered an estimated 12.5% annual net return for 2025, according to a Reuters report on Friday.
+
+The $15.5 billion hedge fund generated a 2.3% return in December for its flagship fund.
+
+The firm’s Fundamental Equity fund performed even better, gaining 2.5% in December and posting an estimated 16.5% return for the full year.
+
+All reported returns were calculated net of fees.",Financials,0.1058649946954746,{'Financials': 0.10586},1,,Financials,0.85,0.8,0.8,"Schonfeld Strategic Advisors's flagship fund achieved a 12.5% annual net return for 2025, with its Fundamental Equity fund outperforming at 16.5%, both after fees."
+2,2026-01-02 16:35:03,Investing.com,Poland stocks higher at close of trade; WIG30 up 2.40%,https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-240-4427983,"Investing.com – Poland stocks were higher after the close on Friday, as gains in the Oil & Gas , Chemicals and Energy sectors led shares higher.
+
+At the close in Warsaw, the WIG30 added 2.40% to hit a new all time high.
+
+The best performers of the session on the WIG30 were Polski Koncern Naftowy ORLEN SA (WA: PKN ), which rose 5.40% or 5.19 points to trade at 101.30 at the close. Meanwhile, Cyfrowy Polsat SA (WA: CPS ) added 5.08% or 0.62 points to end at 12.82 and Bank Millennium SA (WA: MILP ) was up 4.87% or 0.81 points to 17.44 in late trade.
+
+The worst performers of the session were Dino Polska SA (WA: DNP ), which fell 0.85% or 0.35 points to trade at 41.00 at the close. Orange Polska SA (WA: OPL ) added 0.20% or 0.02 points to end at 10.21 and Jastrzebska Spotka Weglowa SA (WA: JSW ) was up 0.21% or 0.05 points to 23.45.
+
+Rising stocks outnumbered declining ones on the Warsaw Stock Exchange by 481 to 142 and 56 ended unchanged.
+
+Shares in Orange Polska SA (WA: OPL ) rose to 5-year highs; rising 0.20% or 0.02 to 10.21. Shares in Bank Millennium SA (WA: MILP ) rose to all time highs; rising 4.87% or 0.81 to 17.44.
+
+Crude oil for February delivery was down 1.18% or 0.68 to $56.74 a barrel. Elsewhere in commodities trading, Brent oil for delivery in March fell 1.18% or 0.72 to hit $60.13 a barrel, while the February Gold Futures contract fell 0.32% or 14.10 to trade at $4,327.00 a troy ounce.
+
+EUR/PLN was unchanged 0.06% to 4.21, while USD/PLN unchanged 0.05% to 3.58.
+
+The US Dollar Index Futures was down 0.08% at 97.97.",Energy,0.0327231207880906,"{'Energy': 0.03272, 'Basic Materials': 0.02131}",2,,"Energy, Basic Materials",0.85,0.73,0.85,"Polish stocks closed higher on Friday, with the WIG30 index reaching an all-time high, boosted by gains in the Oil & Gas, Chemicals, and Energy sectors, despite some individual stocks underperforming."
+2,2026-01-02 16:30:51,Reuters,Rivian’s 2025 deliveries slip below expectations as EV demand pressure persists,https://www.investing.com/news/stock-market-news/rivians-2025-deliveries-slip-below-expectations-as-ev-demand-pressure-persists-4427732,"Jan 2 (Reuters) - Rivian on Friday reported 2025 electric vehicle deliveries that fell slightly more than expected, underscoring the pressure on demand for higher-priced EVs as it prepares to start delivering a lower-cost model in the first half of 2026.
+
+The tally could leave investors focused on the pace of demand as Rivian seeks to improve profitability on the sale of vehicles.
+
+The company has been pushing through efficiency measures at its Illinois plant and is simplifying components to cut material and manufacturing costs as it tries to narrow losses without relying solely on volume growth.
+
+Rivian delivered 42,247 vehicles in 2025, down about 18% from a year earlier. Analysts had expected 42,500 deliveries for the year, according to Visible Alpha data — the average consensus implied a roughly 17.6% decline.
+
+Automakers have been contending with slowing EV demand as the expiry of a $7,500 tax credit in the U.S. at the end of September resulted in higher prices.
+
+For Rivian, which sells the R1T pickup truck and R1S SUV at premium price points, the environment has amplified scrutiny of whether demand can remain resilient while the company scales production.
+
+Investors are looking ahead to Rivian’s smaller, lower-priced R2 SUV, which is expected to compete with Tesla’s best-selling Model Y.
+
+For the fourth quarter ended December 31, Rivian produced 10,974 vehicles at its Normal, Illinois manufacturing facility and delivered 9,745. Wall Street had expected 10,050 deliveries in the quarter.
+
+The company said it will release fourth-quarter and full-year 2025 financial results on February 12, after markets close.",Consumer Cyclical,0.0379015763409203,"{'Consumer Cyclical': 0.0379, 'Financials': 0.02317}",2,,"Consumer Cyclical, Financials",-0.6,-0.6,-0.7,"Rivian reported lower-than-expected 2025 electric vehicle deliveries, reflecting ongoing pressure on demand for high-priced EVs, despite efforts to improve efficiency and reduce costs."
