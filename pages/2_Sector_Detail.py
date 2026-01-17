@@ -206,7 +206,7 @@ if not df.empty:
             st.plotly_chart(create_gauge_chart(current_score), use_container_width=True)
 
         with col2:
-            st.subheader("7-Day Trend")
+            st.subheader("30-Day Trend")
             fig_line = px.line(
                 sector_data, x='Report_Date', y='Final_Daily_Score',
                 markers=True, range_y=[0, 10], color_discrete_sequence=['#1f77b4']
