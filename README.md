@@ -1,6 +1,6 @@
 # 🧠 MarketMind: Hybrid LLM System for Economic Sentiment Analysis
 
-![Banner Image](https://i.ibb.co/VpY3hn8s/S-8830998.jpg)
+![Banner Image](https://i.ibb.co/HTwfMzSr/main-page.jpg)
 > **🏆 WINNER - 1ST PLACE AWARD (Prize: 10,000 THB)**
 > *High-Competency AI Workforce Development Project (PMU-B) x 42 Bangkok*
 
@@ -22,7 +22,7 @@ This project was developed as a Capstone Project for **42 Bangkok - KMITL** and 
 
 We moved beyond a single-AI approach. MarketMind implements an **Ensemble Learning** strategy, treating AI agents as a "Committee of Experts."
 
-![Consensus Workflow](https://placehold.co/800x300/e0e0e0/333333?text=Workflow+Diagram:+News+%E2%86%92+3+LLMs+%E2%86%92+Consensus+%E2%86%92+Dashboard)
+![Consensus Workflow](https://i.ibb.co/wFs6QCtz/solution.jpg)
 ### The "Committee" Members
 1.  **Qwen-2.5** Specialized in financial terminology and CFA-level concepts.
 2.  **Gemma-3** Specialized in chain-of-thought reasoning and logic.
@@ -50,17 +50,15 @@ Our end-to-end pipeline consists of four main layers:
 4.  **Visualization Layer :**
     * Interactive Streamlit Dashboard.
     * Plotly-based visualizations (Treemaps, Gauge Charts).
-
+![LLM](https://i.ibb.co/5XJ8smNK/llm-b.jpg)
 ---
 
 ## Key Features
 
 ### 1. Market Heatmap Dashboard
 Visualize the entire market at a glance. Green indicates bullish sentiment; Red indicates bearish sentiment.
-![Dashboard Screenshot](https://placehold.co/800x450/1e1e1e/ffffff?text=Dashboard+Heatmap+Screenshot)
 ### 2. Sector Deep Dive
 Click on any sector (e.g., Technology, Energy) to see granular details, historical sentiment trends, and specific news drivers.
-
 ### 3. AI Investment Strategy & Rationale
 MarketMind doesn't just give a score; it explains **WHY**.
 * **Action:** Buy / Hold / Sell
